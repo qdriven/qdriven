@@ -3,8 +3,11 @@
 <!--
 **qdriven/qdriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-
+![GitHub followers](https://img.shields.io/github/followers/qdriven?label=Follow&style=social)
 ![github stats](https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&hide_border=true)
+![my github activity graph](https://activity-graph.herokuapp.com/graph?username=qdriven&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=qdriven)
+![Metrics](https://metrics.lecoq.io/qdriven)
 
 <!--
 ## WIP Project
