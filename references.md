@@ -3,7 +3,7 @@
 - https://www.github.com/abhisheknaiidu/abhisheknaiidu.git
 - github.com/skanehira/skanehira.git
 - https://github.com/anuraghazra/anuraghazra
-
+- git@github.com:zzetao/zzetao.git
 
 ## avatar
 
