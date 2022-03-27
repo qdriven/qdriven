@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/qdriven">
     <img width="80%" src="./assets/me-notion-png.png">
-
-</p>
+</p> -->
 
 <br />
 
