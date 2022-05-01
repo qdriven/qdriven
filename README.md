@@ -38,12 +38,12 @@ I'm a self-taught Software Tester and Developer from China.
 
 ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=qdriven&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
 
-### Overall Github Metrics
+<!-- ### Overall Github Metrics
 
-![Metrics](https://metrics.lecoq.io/qdriven)
+![Metrics](https://metrics.lecoq.io/qdriven) -->
 
 
-### Working In Process
+<!-- ### Working In Process
 
 - [low-code-study](https://github.com/qdriven/low-code-way)
-- [python lessons for QA](https://github.com/qdriven/py-for-qa)
+- [python lessons for QA](https://github.com/qdriven/py-for-qa) -->
