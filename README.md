@@ -35,6 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#7](https://github.com/qdriven/qabox-java/issues/7) in [qdriven/qabox-java](https://github.com/qdriven/qabox-java)
+2. ❗️ Opened issue [#10](https://github.com/qdriven/fluentqa-pyutils/issues/10) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+3. 🎉 Merged PR [#6](https://github.com/qdriven/fluentqa-pyutils/pull/6) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+4. 🎉 Merged PR [#7](https://github.com/qdriven/fluentqa-pyutils/pull/7) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+5. 🎉 Merged PR [#8](https://github.com/qdriven/fluentqa-pyutils/pull/8) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
