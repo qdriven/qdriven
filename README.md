@@ -21,7 +21,6 @@ I'm a self-taught Software Tester and Developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
-
 <!--
 **qdriven/qdriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
@@ -33,6 +32,10 @@ I'm a self-taught Software Tester and Developer from China.
 ![GitHub followers](https://img.shields.io/github/followers/qdriven?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=qdriven)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### My Github Activity Graph
 
