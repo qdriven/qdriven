@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/qdriven/fluentqa-pyutils/pull/16) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-2. 🎉 Merged PR [#17](https://github.com/qdriven/fluentqa-pyutils/pull/17) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-3. 🎉 Merged PR [#18](https://github.com/qdriven/fluentqa-pyutils/pull/18) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-4. ❗️ Opened issue [#7](https://github.com/qdriven/qabox-java/issues/7) in [qdriven/qabox-java](https://github.com/qdriven/qabox-java)
-5. ❗️ Opened issue [#10](https://github.com/qdriven/fluentqa-pyutils/issues/10) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+1. ❌ Closed PR [#9](https://github.com/qdriven/fluentqa-pyutils/pull/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+2. ❌ Reopened PR [#9](https://github.com/qdriven/fluentqa-pyutils/pull/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+3. 🗣 Commented on [#9](https://github.com/qdriven/fluentqa-pyutils/issues/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+4. ❌ Closed PR [#9](https://github.com/qdriven/fluentqa-pyutils/pull/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+5. 🎉 Merged PR [#11](https://github.com/qdriven/fluentqa-pyutils/pull/11) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
