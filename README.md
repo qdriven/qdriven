@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/qdriven/fluentqa-pyutils/pull/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-2. ❌ Reopened PR [#9](https://github.com/qdriven/fluentqa-pyutils/pull/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-3. 🗣 Commented on [#9](https://github.com/qdriven/fluentqa-pyutils/issues/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-4. ❌ Closed PR [#9](https://github.com/qdriven/fluentqa-pyutils/pull/9) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-5. 🎉 Merged PR [#11](https://github.com/qdriven/fluentqa-pyutils/pull/11) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+1. ❗️ Closed issue [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+2. 🗣 Commented on [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+3. 🗣 Commented on [#2](https://github.com/qdriven/alternative-qa/issues/2) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+4. 🎉 Merged PR [#2](https://github.com/qdriven/alternative-qa/pull/2) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+5. 💪 Opened PR [#2](https://github.com/qdriven/alternative-qa/pull/2) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
