@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-2. 🗣 Commented on [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-3. 🗣 Commented on [#2](https://github.com/qdriven/alternative-qa/issues/2) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-4. 🎉 Merged PR [#2](https://github.com/qdriven/alternative-qa/pull/2) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-5. 💪 Opened PR [#2](https://github.com/qdriven/alternative-qa/pull/2) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+1. 🗣 Commented on [#3](https://github.com/qdriven/alternative-qa/issues/3) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+2. ❗️ Closed issue [#3](https://github.com/qdriven/alternative-qa/issues/3) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+3. ❗️ Opened issue [#3](https://github.com/qdriven/alternative-qa/issues/3) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+4. ❗️ Closed issue [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+5. 🗣 Commented on [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
