@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/qdriven/alternative-qa/issues/3) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-2. ❗️ Closed issue [#3](https://github.com/qdriven/alternative-qa/issues/3) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-3. ❗️ Opened issue [#3](https://github.com/qdriven/alternative-qa/issues/3) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-4. ❗️ Closed issue [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
-5. 🗣 Commented on [#1](https://github.com/qdriven/alternative-qa/issues/1) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+1. ❗️ Opened issue [#7](https://github.com/qdriven/fluentqa-pydaily/issues/7) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
+2. ❗️ Opened issue [#6](https://github.com/qdriven/fluentqa-pydaily/issues/6) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
+3. ❗️ Opened issue [#5](https://github.com/qdriven/fluentqa-pydaily/issues/5) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
+4. ❗️ Opened issue [#4](https://github.com/qdriven/fluentqa-pydaily/issues/4) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
+5. ❗️ Opened issue [#3](https://github.com/qdriven/fluentqa-pydaily/issues/3) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
