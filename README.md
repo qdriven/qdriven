@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/qdriven/qabox-java/issues/7) in [qdriven/qabox-java](https://github.com/qdriven/qabox-java)
-2. ❗️ Closed issue [#7](https://github.com/qdriven/qabox-java/issues/7) in [qdriven/qabox-java](https://github.com/qdriven/qabox-java)
-3. 🎉 Merged PR [#19](https://github.com/qdriven/fluentqa-pyutils/pull/19) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-4. ❗️ Opened issue [#9](https://github.com/qdriven/fluentqa-pydaily/issues/9) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
-5. ❗️ Opened issue [#8](https://github.com/qdriven/fluentqa-pydaily/issues/8) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
+1. ❗️ Opened issue [#5](https://github.com/qdriven/alternative-qa/issues/5) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+2. ❗️ Opened issue [#4](https://github.com/qdriven/alternative-qa/issues/4) in [qdriven/alternative-qa](https://github.com/qdriven/alternative-qa)
+3. 🗣 Commented on [#7](https://github.com/qdriven/qabox-java/issues/7) in [qdriven/qabox-java](https://github.com/qdriven/qabox-java)
+4. ❗️ Closed issue [#7](https://github.com/qdriven/qabox-java/issues/7) in [qdriven/qabox-java](https://github.com/qdriven/qabox-java)
+5. 🎉 Merged PR [#19](https://github.com/qdriven/fluentqa-pyutils/pull/19) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
