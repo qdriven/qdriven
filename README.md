@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/qdriven/fluentqa-pydaily/issues/10) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
-2. ❗️ Opened issue [#10](https://github.com/qdriven/qfluent-go/issues/10) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-3. ❗️ Opened issue [#9](https://github.com/qdriven/qfluent-go/issues/9) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-4. ❗️ Opened issue [#3](https://github.com/qdriven/low-code-way/issues/3) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-5. ❗️ Opened issue [#2](https://github.com/qdriven/low-code-way/issues/2) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+1. 🎉 Merged PR [#2](https://github.com/qdriven/fluent-ts-way/pull/2) in [qdriven/fluent-ts-way](https://github.com/qdriven/fluent-ts-way)
+2. 💪 Opened PR [#2](https://github.com/qdriven/fluent-ts-way/pull/2) in [qdriven/fluent-ts-way](https://github.com/qdriven/fluent-ts-way)
+3. ❗️ Opened issue [#10](https://github.com/qdriven/fluentqa-pydaily/issues/10) in [qdriven/fluentqa-pydaily](https://github.com/qdriven/fluentqa-pydaily)
+4. ❗️ Opened issue [#10](https://github.com/qdriven/qfluent-go/issues/10) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+5. ❗️ Opened issue [#9](https://github.com/qdriven/qfluent-go/issues/9) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
