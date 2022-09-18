@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/qdriven/qpyone/issues/10) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-2. 🗣 Commented on [#10](https://github.com/qdriven/qpyone/issues/10) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-3. 🎉 Merged PR [#21](https://github.com/qdriven/fluentqa-pyutils/pull/21) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-4. 🎉 Merged PR [#25](https://github.com/qdriven/fluentqa-pyutils/pull/25) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
-5. 🎉 Merged PR [#20](https://github.com/qdriven/fluentqa-pyutils/pull/20) in [qdriven/fluentqa-pyutils](https://github.com/qdriven/fluentqa-pyutils)
+1. ❗️ Opened issue [#7](https://github.com/qdriven/gathering/issues/7) in [qdriven/gathering](https://github.com/qdriven/gathering)
+2. ❗️ Closed issue [#5](https://github.com/qdriven/gathering/issues/5) in [qdriven/gathering](https://github.com/qdriven/gathering)
+3. 🗣 Commented on [#5](https://github.com/qdriven/gathering/issues/5) in [qdriven/gathering](https://github.com/qdriven/gathering)
+4. 🎉 Merged PR [#6](https://github.com/qdriven/gathering/pull/6) in [qdriven/gathering](https://github.com/qdriven/gathering)
+5. 🎉 Merged PR [#4](https://github.com/qdriven/gathering/pull/4) in [qdriven/gathering](https://github.com/qdriven/gathering)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
