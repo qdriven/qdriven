@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/qdriven/gathering/issues/7) in [qdriven/gathering](https://github.com/qdriven/gathering)
-2. ❗️ Closed issue [#5](https://github.com/qdriven/gathering/issues/5) in [qdriven/gathering](https://github.com/qdriven/gathering)
-3. 🗣 Commented on [#5](https://github.com/qdriven/gathering/issues/5) in [qdriven/gathering](https://github.com/qdriven/gathering)
-4. 🎉 Merged PR [#6](https://github.com/qdriven/gathering/pull/6) in [qdriven/gathering](https://github.com/qdriven/gathering)
-5. 🎉 Merged PR [#4](https://github.com/qdriven/gathering/pull/4) in [qdriven/gathering](https://github.com/qdriven/gathering)
+1. ❗️ Closed issue [#7](https://github.com/qdriven/gathering/issues/7) in [qdriven/gathering](https://github.com/qdriven/gathering)
+2. 🎉 Merged PR [#15](https://github.com/qdriven/gathering/pull/15) in [qdriven/gathering](https://github.com/qdriven/gathering)
+3. 💪 Opened PR [#15](https://github.com/qdriven/gathering/pull/15) in [qdriven/gathering](https://github.com/qdriven/gathering)
+4. ❗️ Opened issue [#14](https://github.com/qdriven/gathering/issues/14) in [qdriven/gathering](https://github.com/qdriven/gathering)
+5. ❗️ Opened issue [#7](https://github.com/qdriven/gathering/issues/7) in [qdriven/gathering](https://github.com/qdriven/gathering)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
