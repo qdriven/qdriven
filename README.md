@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/qdriven/gathering/issues/7) in [qdriven/gathering](https://github.com/qdriven/gathering)
-2. 🎉 Merged PR [#15](https://github.com/qdriven/gathering/pull/15) in [qdriven/gathering](https://github.com/qdriven/gathering)
-3. 💪 Opened PR [#15](https://github.com/qdriven/gathering/pull/15) in [qdriven/gathering](https://github.com/qdriven/gathering)
-4. ❗️ Opened issue [#14](https://github.com/qdriven/gathering/issues/14) in [qdriven/gathering](https://github.com/qdriven/gathering)
-5. ❗️ Opened issue [#7](https://github.com/qdriven/gathering/issues/7) in [qdriven/gathering](https://github.com/qdriven/gathering)
+1. ❗️ Opened issue [#17](https://github.com/qdriven/gathering/issues/17) in [qdriven/gathering](https://github.com/qdriven/gathering)
+2. ❗️ Opened issue [#16](https://github.com/qdriven/gathering/issues/16) in [qdriven/gathering](https://github.com/qdriven/gathering)
+3. ❌ Closed PR [#13](https://github.com/qdriven/gathering/pull/13) in [qdriven/gathering](https://github.com/qdriven/gathering)
+4. ❌ Closed PR [#12](https://github.com/qdriven/gathering/pull/12) in [qdriven/gathering](https://github.com/qdriven/gathering)
+5. ❌ Closed PR [#11](https://github.com/qdriven/gathering/pull/11) in [qdriven/gathering](https://github.com/qdriven/gathering)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
