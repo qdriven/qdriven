@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/qdriven/qfluent-go/pull/1) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-2. ❌ Closed PR [#2](https://github.com/qdriven/qfluent-go/pull/2) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-3. ❌ Closed PR [#3](https://github.com/qdriven/qfluent-go/pull/3) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-4. ❌ Closed PR [#4](https://github.com/qdriven/qfluent-go/pull/4) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-5. ❌ Closed PR [#11](https://github.com/qdriven/qfluent-go/pull/11) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. 🎉 Merged PR [#3](https://github.com/qdriven/fluent-ts-way/pull/3) in [qdriven/fluent-ts-way](https://github.com/qdriven/fluent-ts-way)
+2. 💪 Opened PR [#3](https://github.com/qdriven/fluent-ts-way/pull/3) in [qdriven/fluent-ts-way](https://github.com/qdriven/fluent-ts-way)
+3. ❌ Closed PR [#1](https://github.com/qdriven/qfluent-go/pull/1) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+4. ❌ Closed PR [#2](https://github.com/qdriven/qfluent-go/pull/2) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+5. ❌ Closed PR [#3](https://github.com/qdriven/qfluent-go/pull/3) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
