@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/fluent-qa/30minutes-git/pull/2) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
-2. 💪 Opened PR [#2](https://github.com/fluent-qa/30minutes-git/pull/2) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
-3. 🎉 Merged PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
-4. 💪 Opened PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
-5. 🎉 Merged PR [#24](https://github.com/qdriven/qfluent-go/pull/24) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. ❗️ Opened issue [#24397](https://github.com/sympy/sympy/issues/24397) in [sympy/sympy](https://github.com/sympy/sympy)
+2. 🎉 Merged PR [#2](https://github.com/fluent-qa/30minutes-git/pull/2) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
+3. 💪 Opened PR [#2](https://github.com/fluent-qa/30minutes-git/pull/2) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
+4. 🎉 Merged PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
+5. 💪 Opened PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
