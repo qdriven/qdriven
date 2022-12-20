@@ -35,9 +35,9 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24397](https://github.com/sympy/sympy/issues/24397) in [sympy/sympy](https://github.com/sympy/sympy)
-2. 🎉 Merged PR [#2](https://github.com/fluent-qa/30minutes-git/pull/2) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
-3. 💪 Opened PR [#2](https://github.com/fluent-qa/30minutes-git/pull/2) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
+1. 🗣 Commented on [#632](https://github.com/illacloud/illa-builder/issues/632) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+2. 🗣 Commented on [#543](https://github.com/illacloud/illa-builder/issues/543) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+3. ❗️ Opened issue [#24397](https://github.com/sympy/sympy/issues/24397) in [sympy/sympy](https://github.com/sympy/sympy)
 4. 🎉 Merged PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
 5. 💪 Opened PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
 <!--END_SECTION:activity-->
