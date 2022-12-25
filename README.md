@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#632](https://github.com/illacloud/illa-builder/issues/632) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-2. 🗣 Commented on [#543](https://github.com/illacloud/illa-builder/issues/543) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-3. ❗️ Opened issue [#24397](https://github.com/sympy/sympy/issues/24397) in [sympy/sympy](https://github.com/sympy/sympy)
-4. 🎉 Merged PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
-5. 💪 Opened PR [#1](https://github.com/fluent-qa/30minutes-git/pull/1) in [fluent-qa/30minutes-git](https://github.com/fluent-qa/30minutes-git)
+1. 🎉 Merged PR [#19](https://github.com/qdriven/gathering/pull/19) in [qdriven/gathering](https://github.com/qdriven/gathering)
+2. 🎉 Merged PR [#27](https://github.com/qdriven/gathering/pull/27) in [qdriven/gathering](https://github.com/qdriven/gathering)
+3. 🎉 Merged PR [#34](https://github.com/qdriven/gathering/pull/34) in [qdriven/gathering](https://github.com/qdriven/gathering)
+4. 🎉 Merged PR [#37](https://github.com/qdriven/gathering/pull/37) in [qdriven/gathering](https://github.com/qdriven/gathering)
+5. 🎉 Merged PR [#38](https://github.com/qdriven/gathering/pull/38) in [qdriven/gathering](https://github.com/qdriven/gathering)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
