@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/qdriven/dailyqa-radar/issues/2) in [qdriven/dailyqa-radar](https://github.com/qdriven/dailyqa-radar)
-2. ❗️ Opened issue [#1](https://github.com/qdriven/dailyqa-radar/issues/1) in [qdriven/dailyqa-radar](https://github.com/qdriven/dailyqa-radar)
-3. 🎉 Merged PR [#62](https://github.com/qdriven/qpyone/pull/62) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-4. 🎉 Merged PR [#58](https://github.com/qdriven/qpyone/pull/58) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-5. 🎉 Merged PR [#60](https://github.com/qdriven/qpyone/pull/60) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+1. ❗️ Closed issue [#2](https://github.com/qdriven/fluent-pypro-template/issues/2) in [qdriven/fluent-pypro-template](https://github.com/qdriven/fluent-pypro-template)
+2. 🗣 Commented on [#2](https://github.com/qdriven/fluent-pypro-template/issues/2) in [qdriven/fluent-pypro-template](https://github.com/qdriven/fluent-pypro-template)
+3. 🎉 Merged PR [#3](https://github.com/qdriven/fluent-pypro-template/pull/3) in [qdriven/fluent-pypro-template](https://github.com/qdriven/fluent-pypro-template)
+4. 💪 Opened PR [#3](https://github.com/qdriven/fluent-pypro-template/pull/3) in [qdriven/fluent-pypro-template](https://github.com/qdriven/fluent-pypro-template)
+5. ❗️ Opened issue [#2](https://github.com/qdriven/dailyqa-radar/issues/2) in [qdriven/dailyqa-radar](https://github.com/qdriven/dailyqa-radar)
 <!--END_SECTION:activity-->
 
 ### My Github Activity Graph
