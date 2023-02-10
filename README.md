@@ -35,10 +35,10 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/qdriven/qpyone/pull/73) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-2. 🎉 Merged PR [#65](https://github.com/qdriven/qpyone/pull/65) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-3. 🎉 Merged PR [#68](https://github.com/qdriven/qpyone/pull/68) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-4. 🎉 Merged PR [#70](https://github.com/qdriven/qpyone/pull/70) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+1. ❗️ Closed issue [#1](https://github.com/qdriven/low-code-way/issues/1) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+2. ❗️ Closed issue [#2](https://github.com/qdriven/low-code-way/issues/2) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+3. ❗️ Closed issue [#3](https://github.com/qdriven/low-code-way/issues/3) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+4. 🎉 Merged PR [#73](https://github.com/qdriven/qpyone/pull/73) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
 5. 🎉 Merged PR [#71](https://github.com/qdriven/qpyone/pull/71) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
 <!--END_SECTION:activity-->
 
