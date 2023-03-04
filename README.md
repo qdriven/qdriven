@@ -42,14 +42,6 @@ I'm a self-taught Software Tester and Developer from China.
 5. 🎉 Merged PR [#37](https://github.com/qdriven/qfluent-go/pull/37) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
-### My Github Activity Graph
-
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=qdriven&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
-
-<!-- ### Overall Github Metrics
-
-![Metrics](https://metrics.lecoq.io/qdriven) -->
-
 
 <!-- ### Working In Process
 
