@@ -35,11 +35,11 @@ I'm a self-taught Software Tester and Developer from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/qdriven/fluentqa-fe/pull/1) in [qdriven/fluentqa-fe](https://github.com/qdriven/fluentqa-fe)
-2. 💪 Opened PR [#1](https://github.com/qdriven/fluentqa-fe/pull/1) in [qdriven/fluentqa-fe](https://github.com/qdriven/fluentqa-fe)
-3. 🎉 Merged PR [#18](https://github.com/fluent-qa/fluentqa-pdao/pull/18) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-4. 🎉 Merged PR [#11](https://github.com/fluent-qa/fluentqa-pdao/pull/11) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-5. 🎉 Merged PR [#14](https://github.com/fluent-qa/fluentqa-pdao/pull/14) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. ❌ Closed PR [#22](https://github.com/fluent-qa/fluentqa-pdao/pull/22) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+2. 🎉 Merged PR [#23](https://github.com/fluent-qa/fluentqa-pdao/pull/23) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+3. 🎉 Merged PR [#1](https://github.com/qdriven/fluentqa-fe/pull/1) in [qdriven/fluentqa-fe](https://github.com/qdriven/fluentqa-fe)
+4. 💪 Opened PR [#1](https://github.com/qdriven/fluentqa-fe/pull/1) in [qdriven/fluentqa-fe](https://github.com/qdriven/fluentqa-fe)
+5. 🎉 Merged PR [#18](https://github.com/fluent-qa/fluentqa-pdao/pull/18) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
 <!--END_SECTION:activity-->
 
 
