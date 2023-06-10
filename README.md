@@ -7,7 +7,7 @@
 
 <br />
 
-I'm a self-taught Software Tester and Developer from China. 
+I'm a self-taught Software Engineer in Both Dev and Testing from China. 
 
 **About Me**
 
@@ -30,7 +30,6 @@ I'm a self-taught Software Tester and Developer from China.
 
 
 ![GitHub followers](https://img.shields.io/github/followers/qdriven?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=qdriven)
 
 ### :zap: Recent Activity
 
