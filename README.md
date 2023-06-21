@@ -34,7 +34,7 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-pdao/pull/34) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. 🎉 Merged PR [#60](https://github.com/qdriven/qfluent-go/pull/60) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 2. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-pdao/pull/33) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
 3. 🎉 Merged PR [#32](https://github.com/fluent-qa/fluentqa-pdao/pull/32) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
 4. 🎉 Merged PR [#30](https://github.com/fluent-qa/fluentqa-pdao/pull/30) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
