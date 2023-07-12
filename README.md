@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#47](https://github.com/fluent-qa/fluentqa-pdao/pull/47) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-2. ❌ Closed PR [#46](https://github.com/fluent-qa/fluentqa-pdao/pull/46) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-3. ❌ Closed PR [#44](https://github.com/fluent-qa/fluentqa-pdao/pull/44) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-4. ❌ Closed PR [#42](https://github.com/fluent-qa/fluentqa-pdao/pull/42) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-5. ❌ Closed PR [#40](https://github.com/fluent-qa/fluentqa-pdao/pull/40) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. ❗ Opened issue [#7](https://github.com/qdriven/low-code-way/issues/7) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+2. 🔒 Closed issue [#5](https://github.com/qdriven/low-code-way/issues/5) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+3. ❗ Opened issue [#6](https://github.com/qdriven/low-code-way/issues/6) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+4. ❗ Opened issue [#5](https://github.com/qdriven/low-code-way/issues/5) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+5. ❗ Opened issue [#4](https://github.com/qdriven/low-code-way/issues/4) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
 <!--END_SECTION:activity-->
 
 
