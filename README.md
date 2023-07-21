@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/qdriven/low-code-way/issues/7) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-2. 🔒 Closed issue [#5](https://github.com/qdriven/low-code-way/issues/5) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-3. ❗ Opened issue [#6](https://github.com/qdriven/low-code-way/issues/6) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-4. ❗ Opened issue [#5](https://github.com/qdriven/low-code-way/issues/5) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-5. ❗ Opened issue [#4](https://github.com/qdriven/low-code-way/issues/4) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+1. 🎉 Merged PR [#50](https://github.com/fluent-qa/fluentqa-pdao/pull/50) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+2. 🎉 Merged PR [#6](https://github.com/fluent-qa/fluentqa-pybase/pull/6) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+3. 🎉 Merged PR [#9](https://github.com/fluent-qa/fluentqa-pybase/pull/9) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+4. 🎉 Merged PR [#10](https://github.com/fluent-qa/fluentqa-pybase/pull/10) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+5. ❗ Opened issue [#7](https://github.com/qdriven/low-code-way/issues/7) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
 <!--END_SECTION:activity-->
 
 
