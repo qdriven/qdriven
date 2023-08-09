@@ -34,7 +34,7 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/fluent-qa/fluentqa-pdao/pull/50) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. 🗣 Commented on [#103](https://github.com/ethereum/remix-desktop/issues/103#issuecomment-1670580462) in [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop)
 2. 🎉 Merged PR [#6](https://github.com/fluent-qa/fluentqa-pybase/pull/6) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
 3. 🎉 Merged PR [#9](https://github.com/fluent-qa/fluentqa-pybase/pull/9) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
 4. 🎉 Merged PR [#10](https://github.com/fluent-qa/fluentqa-pybase/pull/10) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
