@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/qdriven/self-making/issues/2) in [qdriven/self-making](https://github.com/qdriven/self-making)
-2. 🔒 Closed issue [#1](https://github.com/qdriven/self-making/issues/1) in [qdriven/self-making](https://github.com/qdriven/self-making)
-3. ❗ Opened issue [#1](https://github.com/qdriven/self-making/issues/1) in [qdriven/self-making](https://github.com/qdriven/self-making)
-4. 🎉 Merged PR [#10](https://github.com/fluent-qa/fluentqa-pybase/pull/10) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
-5. ❗ Opened issue [#7](https://github.com/qdriven/low-code-way/issues/7) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+1. 🔒 Closed issue [#2](https://github.com/qdriven/self-making/issues/2) in [qdriven/self-making](https://github.com/qdriven/self-making)
+2. 🗣 Commented on [#2](https://github.com/qdriven/self-making/issues/2#issuecomment-1681676876) in [qdriven/self-making](https://github.com/qdriven/self-making)
+3. ❗ Opened issue [#2](https://github.com/qdriven/self-making/issues/2) in [qdriven/self-making](https://github.com/qdriven/self-making)
+4. 🔒 Closed issue [#1](https://github.com/qdriven/self-making/issues/1) in [qdriven/self-making](https://github.com/qdriven/self-making)
+5. ❗ Opened issue [#1](https://github.com/qdriven/self-making/issues/1) in [qdriven/self-making](https://github.com/qdriven/self-making)
 <!--END_SECTION:activity-->
 
 
