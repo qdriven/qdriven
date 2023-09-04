@@ -34,7 +34,7 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/qdriven/fluentqa-fe/issues/2) in [qdriven/fluentqa-fe](https://github.com/qdriven/fluentqa-fe)
+1. ❗ Opened issue [#867](https://github.com/getcursor/cursor/issues/867) in [getcursor/cursor](https://github.com/getcursor/cursor)
 2. ❗ Opened issue [#66](https://github.com/qdriven/qfluent-go/issues/66) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 3. ❗ Opened issue [#1](https://github.com/fluent-qa/fluentqa-workspace/issues/1) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 4. 🔒 Closed issue [#2](https://github.com/qdriven/self-making/issues/2) in [qdriven/self-making](https://github.com/qdriven/self-making)
