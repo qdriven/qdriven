@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/fluent-qa/fluent-project-templates/pull/4) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
-2. 💪 Opened PR [#4](https://github.com/fluent-qa/fluent-project-templates/pull/4) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
-3. ❗ Opened issue [#867](https://github.com/getcursor/cursor/issues/867) in [getcursor/cursor](https://github.com/getcursor/cursor)
-4. 🔒 Closed issue [#2](https://github.com/qdriven/self-making/issues/2) in [qdriven/self-making](https://github.com/qdriven/self-making)
-5. 🗣 Commented on [#2](https://github.com/qdriven/self-making/issues/2#issuecomment-1681676876) in [qdriven/self-making](https://github.com/qdriven/self-making)
+1. ❗ Opened issue [#3](https://github.com/fluent-qa/fluentqa-helper/issues/3) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+2. ❗ Opened issue [#2](https://github.com/fluent-qa/fluentqa-helper/issues/2) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+3. ❗ Opened issue [#1](https://github.com/fluent-qa/fluentqa-helper/issues/1) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+4. 🎉 Merged PR [#4](https://github.com/fluent-qa/fluent-project-templates/pull/4) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
+5. 💪 Opened PR [#4](https://github.com/fluent-qa/fluent-project-templates/pull/4) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
 <!--END_SECTION:activity-->
 
 
