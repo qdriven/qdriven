@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/qdriven/low-code-way/issues/8) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-2. ❗ Opened issue [#3](https://github.com/fluent-qa/fluentqa-helper/issues/3) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
-3. ❗ Opened issue [#2](https://github.com/fluent-qa/fluentqa-helper/issues/2) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
-4. ❗ Opened issue [#1](https://github.com/fluent-qa/fluentqa-helper/issues/1) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
-5. 🎉 Merged PR [#4](https://github.com/fluent-qa/fluent-project-templates/pull/4) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
+1. ❌ Closed PR [#4](https://github.com/fluent-qa/fluentqa-helper/pull/4) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+2. 🗣 Commented on [#4](https://github.com/fluent-qa/fluentqa-helper/pull/4#issuecomment-1722383618) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+3. ❌ Closed PR [#5](https://github.com/fluent-qa/fluentqa-helper/pull/5) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+4. 🗣 Commented on [#5](https://github.com/fluent-qa/fluentqa-helper/pull/5#issuecomment-1722383492) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+5. ❗ Opened issue [#8](https://github.com/qdriven/low-code-way/issues/8) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
 <!--END_SECTION:activity-->
 
 
