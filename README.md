@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/fluent-qa/fluentqa-pdao/pull/52) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-2. 🎉 Merged PR [#53](https://github.com/fluent-qa/fluentqa-pdao/pull/53) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-3. 🎉 Merged PR [#55](https://github.com/fluent-qa/fluentqa-pdao/pull/55) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-4. ❌ Closed PR [#1](https://github.com/fluent-qa/fluentqa-python/pull/1) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
-5. 🗣 Commented on [#1](https://github.com/fluent-qa/fluentqa-python/pull/1#issuecomment-1723175314) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
+1. 🔒 Closed issue [#8](https://github.com/qdriven/low-code-way/issues/8) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+2. 🗣 Commented on [#8](https://github.com/qdriven/low-code-way/issues/8#issuecomment-1724958975) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+3. 🎉 Merged PR [#52](https://github.com/fluent-qa/fluentqa-pdao/pull/52) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+4. 🎉 Merged PR [#53](https://github.com/fluent-qa/fluentqa-pdao/pull/53) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+5. 🎉 Merged PR [#55](https://github.com/fluent-qa/fluentqa-pdao/pull/55) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
 <!--END_SECTION:activity-->
 
 
