@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/fluent-qa/fluentqa-workspace/pull/2) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. 💪 Opened PR [#2](https://github.com/fluent-qa/fluentqa-workspace/pull/2) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. 🔒 Closed issue [#8](https://github.com/qdriven/low-code-way/issues/8) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-4. 🗣 Commented on [#8](https://github.com/qdriven/low-code-way/issues/8#issuecomment-1724958975) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-5. 🎉 Merged PR [#52](https://github.com/fluent-qa/fluentqa-pdao/pull/52) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. ❗ Opened issue [#16](https://github.com/qdriven/low-code-way/issues/16) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+2. ❗ Opened issue [#15](https://github.com/qdriven/low-code-way/issues/15) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+3. ❗ Opened issue [#14](https://github.com/qdriven/low-code-way/issues/14) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+4. ❗ Opened issue [#13](https://github.com/qdriven/low-code-way/issues/13) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+5. ❗ Opened issue [#12](https://github.com/qdriven/low-code-way/issues/12) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
 <!--END_SECTION:activity-->
 
 
