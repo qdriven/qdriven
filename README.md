@@ -34,11 +34,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/qdriven/low-code-way/issues/16) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-2. ❗ Opened issue [#15](https://github.com/qdriven/low-code-way/issues/15) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-3. ❗ Opened issue [#14](https://github.com/qdriven/low-code-way/issues/14) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-4. ❗ Opened issue [#13](https://github.com/qdriven/low-code-way/issues/13) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-5. ❗ Opened issue [#12](https://github.com/qdriven/low-code-way/issues/12) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+1. 🎉 Merged PR [#1](https://github.com/qdriven/qa-revistied-slides/pull/1) in [qdriven/qa-revistied-slides](https://github.com/qdriven/qa-revistied-slides)
+2. 💪 Opened PR [#1](https://github.com/qdriven/qa-revistied-slides/pull/1) in [qdriven/qa-revistied-slides](https://github.com/qdriven/qa-revistied-slides)
+3. ❗ Opened issue [#16](https://github.com/qdriven/low-code-way/issues/16) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+4. ❗ Opened issue [#15](https://github.com/qdriven/low-code-way/issues/15) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+5. ❗ Opened issue [#14](https://github.com/qdriven/low-code-way/issues/14) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
 <!--END_SECTION:activity-->
 
 
