@@ -16,6 +16,18 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 - 💬 Old enough but still curious about new tech, history
 - Enjoy my average personal life, and hope peace everywhere
 
+
+## Working in Process for QA
+
+- [python-for-qa](https://github.com/fluent-qa/fluentqa-python) common used python libs in qa
+- [QA-Simple-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+- [Revisited-QA](https://fluentqa-revistied.netlify.app/)
+
+### Working In Process
+
+- [project-templates](https://github.com/fluent-qa/fluent-project-templates)
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
