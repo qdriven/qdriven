@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/fluent-qa/fluentqa-workspace/issues/6) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. 🎉 Merged PR [#1](https://github.com/fluent-qa/fluentqa-go-tutorials/pull/1) in [fluent-qa/fluentqa-go-tutorials](https://github.com/fluent-qa/fluentqa-go-tutorials)
-3. 💪 Opened PR [#1](https://github.com/fluent-qa/fluentqa-go-tutorials/pull/1) in [fluent-qa/fluentqa-go-tutorials](https://github.com/fluent-qa/fluentqa-go-tutorials)
-4. ❗ Opened issue [#5](https://github.com/fluent-qa/fluentqa-workspace/issues/5) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. ❗ Opened issue [#4](https://github.com/fluent-qa/fluentqa-workspace/issues/4) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. ❗ Opened issue [#2](https://github.com/qdriven/self-making/issues/2) in [qdriven/self-making](https://github.com/qdriven/self-making)
+2. ❗ Opened issue [#1](https://github.com/qdriven/self-making/issues/1) in [qdriven/self-making](https://github.com/qdriven/self-making)
+3. ❗ Opened issue [#6](https://github.com/fluent-qa/fluentqa-workspace/issues/6) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+4. 🎉 Merged PR [#1](https://github.com/fluent-qa/fluentqa-go-tutorials/pull/1) in [fluent-qa/fluentqa-go-tutorials](https://github.com/fluent-qa/fluentqa-go-tutorials)
+5. 💪 Opened PR [#1](https://github.com/fluent-qa/fluentqa-go-tutorials/pull/1) in [fluent-qa/fluentqa-go-tutorials](https://github.com/fluent-qa/fluentqa-go-tutorials)
 <!--END_SECTION:activity-->
 
 
