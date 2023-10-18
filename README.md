@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/fluent-qa/fluentqa-workspace/pull/9) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. 💪 Opened PR [#9](https://github.com/fluent-qa/fluentqa-workspace/pull/9) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. ❗ Opened issue [#8](https://github.com/fluent-qa/fluentqa-workspace/issues/8) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-4. 🔒 Closed issue [#6](https://github.com/fluent-qa/fluentqa-workspace/issues/6) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. 🗣 Commented on [#6](https://github.com/fluent-qa/fluentqa-workspace/issues/6#issuecomment-1766132425) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. 🔒 Closed issue [#8](https://github.com/fluent-qa/fluentqa-workspace/issues/8) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+2. 🎉 Merged PR [#9](https://github.com/fluent-qa/fluentqa-workspace/pull/9) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+3. 💪 Opened PR [#9](https://github.com/fluent-qa/fluentqa-workspace/pull/9) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+4. ❗ Opened issue [#8](https://github.com/fluent-qa/fluentqa-workspace/issues/8) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+5. 🔒 Closed issue [#6](https://github.com/fluent-qa/fluentqa-workspace/issues/6) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
 
 
