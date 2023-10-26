@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/qdriven/qdriven-fe/pull/1) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
-2. 💪 Opened PR [#1](https://github.com/qdriven/qdriven-fe/pull/1) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
-3. ❗ Opened issue [#1](https://github.com/fluent-qa/qabox-tutorials/issues/1) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-4. 🔒 Closed issue [#1](https://github.com/qdriven/self-making/issues/1) in [qdriven/self-making](https://github.com/qdriven/self-making)
-5. 🗣 Commented on [#1](https://github.com/qdriven/self-making/issues/1#issuecomment-1773717840) in [qdriven/self-making](https://github.com/qdriven/self-making)
+1. 🎉 Merged PR [#2](https://github.com/qdriven/qdriven-fe/pull/2) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
+2. ❌ Reopened PR [#2](https://github.com/qdriven/qdriven-fe/pull/2) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
+3. ❌ Closed PR [#2](https://github.com/qdriven/qdriven-fe/pull/2) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
+4. 💪 Opened PR [#2](https://github.com/qdriven/qdriven-fe/pull/2) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
+5. 🎉 Merged PR [#1](https://github.com/qdriven/qdriven-fe/pull/1) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
 <!--END_SECTION:activity-->
 
 
