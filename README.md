@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#73](https://github.com/qdriven/qfluent-go/issues/73) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-2. 🎉 Merged PR [#58](https://github.com/fluent-qa/fluentqa-pdao/pull/58) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-3. 🎉 Merged PR [#56](https://github.com/fluent-qa/fluentqa-pdao/pull/56) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-4. ❗ Opened issue [#1](https://github.com/fluent-qa/ts-lib-starter/issues/1) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
-5. 🎉 Merged PR [#2](https://github.com/qdriven/qdriven-fe/pull/2) in [qdriven/qdriven-fe](https://github.com/qdriven/qdriven-fe)
+1. 🎉 Merged PR [#74](https://github.com/qdriven/qfluent-go/pull/74) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+2. 💪 Opened PR [#74](https://github.com/qdriven/qfluent-go/pull/74) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+3. ❗ Opened issue [#73](https://github.com/qdriven/qfluent-go/issues/73) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+4. 🎉 Merged PR [#58](https://github.com/fluent-qa/fluentqa-pdao/pull/58) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+5. 🎉 Merged PR [#56](https://github.com/fluent-qa/fluentqa-pdao/pull/56) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
 <!--END_SECTION:activity-->
 
 
