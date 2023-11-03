@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/fluent-qa/qabox-tutorials/pull/2) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-2. 💪 Opened PR [#2](https://github.com/fluent-qa/qabox-tutorials/pull/2) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-3. 🎉 Merged PR [#74](https://github.com/qdriven/qfluent-go/pull/74) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-4. 💪 Opened PR [#74](https://github.com/qdriven/qfluent-go/pull/74) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-5. ❗ Opened issue [#73](https://github.com/qdriven/qfluent-go/issues/73) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. 🎉 Merged PR [#3](https://github.com/fluent-qa/qabox-tutorials/pull/3) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+2. 💪 Opened PR [#3](https://github.com/fluent-qa/qabox-tutorials/pull/3) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+3. 🎉 Merged PR [#2](https://github.com/fluent-qa/qabox-tutorials/pull/2) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+4. 💪 Opened PR [#2](https://github.com/fluent-qa/qabox-tutorials/pull/2) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+5. 🎉 Merged PR [#74](https://github.com/qdriven/qfluent-go/pull/74) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 
