@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/qdriven/self-making/issues/3) in [qdriven/self-making](https://github.com/qdriven/self-making)
-2. 🎉 Merged PR [#3](https://github.com/fluent-qa/qabox-tutorials/pull/3) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-3. 💪 Opened PR [#3](https://github.com/fluent-qa/qabox-tutorials/pull/3) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-4. 🎉 Merged PR [#2](https://github.com/fluent-qa/qabox-tutorials/pull/2) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-5. 💪 Opened PR [#2](https://github.com/fluent-qa/qabox-tutorials/pull/2) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+1. 🎉 Merged PR [#2](https://github.com/fluent-qa/fluentqa-go-tutorials/pull/2) in [fluent-qa/fluentqa-go-tutorials](https://github.com/fluent-qa/fluentqa-go-tutorials)
+2. 💪 Opened PR [#2](https://github.com/fluent-qa/fluentqa-go-tutorials/pull/2) in [fluent-qa/fluentqa-go-tutorials](https://github.com/fluent-qa/fluentqa-go-tutorials)
+3. ❗ Opened issue [#3](https://github.com/qdriven/self-making/issues/3) in [qdriven/self-making](https://github.com/qdriven/self-making)
+4. 🎉 Merged PR [#3](https://github.com/fluent-qa/qabox-tutorials/pull/3) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+5. 💪 Opened PR [#3](https://github.com/fluent-qa/qabox-tutorials/pull/3) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
 <!--END_SECTION:activity-->
 
 
