@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#79](https://github.com/qdriven/qfluent-go/issues/79) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-2. ❌ Closed PR [#82](https://github.com/qdriven/qfluent-go/pull/82) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-3. ❌ Closed PR [#81](https://github.com/qdriven/qfluent-go/pull/81) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-4. ❌ Closed PR [#80](https://github.com/qdriven/qfluent-go/pull/80) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-5. 🎉 Merged PR [#83](https://github.com/qdriven/qfluent-go/pull/83) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. ❗ Opened issue [#84](https://github.com/qdriven/qfluent-go/issues/84) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+2. 🔒 Closed issue [#79](https://github.com/qdriven/qfluent-go/issues/79) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+3. ❌ Closed PR [#82](https://github.com/qdriven/qfluent-go/pull/82) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+4. ❌ Closed PR [#81](https://github.com/qdriven/qfluent-go/pull/81) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+5. ❌ Closed PR [#80](https://github.com/qdriven/qfluent-go/pull/80) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 
