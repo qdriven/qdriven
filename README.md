@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/fluent-qa/ts-lib-starter/issues/1#issuecomment-1806988756) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
-2. 🔒 Closed issue [#1](https://github.com/fluent-qa/ts-lib-starter/issues/1) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
-3. 🚀 Published release [v1.0.1](https://github.com/fluent-qa/ts-lib-starter/releases/tag/v1.0.1) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
-4. ❗ Opened issue [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
-5. ❗ Opened issue [#79](https://github.com/qdriven/qfluent-go/issues/79) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. 🔒 Closed issue [#79](https://github.com/qdriven/qfluent-go/issues/79) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+2. ❌ Closed PR [#82](https://github.com/qdriven/qfluent-go/pull/82) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+3. ❌ Closed PR [#81](https://github.com/qdriven/qfluent-go/pull/81) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+4. ❌ Closed PR [#80](https://github.com/qdriven/qfluent-go/pull/80) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+5. 🎉 Merged PR [#83](https://github.com/qdriven/qfluent-go/pull/83) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 
