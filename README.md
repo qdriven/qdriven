@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [integrate rest-go](https://github.com/qdriven/qfluent-go/releases/tag/v0.02) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-2. 🔒 Closed issue [#66](https://github.com/qdriven/qfluent-go/issues/66) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-3. 🔒 Closed issue [#84](https://github.com/qdriven/qfluent-go/issues/84) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-4. ❗ Opened issue [#84](https://github.com/qdriven/qfluent-go/issues/84) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-5. 🔒 Closed issue [#79](https://github.com/qdriven/qfluent-go/issues/79) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. 🎉 Merged PR [#5](https://github.com/fluent-qa/qabox-tutorials/pull/5) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+2. 💪 Opened PR [#5](https://github.com/fluent-qa/qabox-tutorials/pull/5) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
+3. 🚀 Published release [integrate rest-go](https://github.com/qdriven/qfluent-go/releases/tag/v0.02) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+4. 🔒 Closed issue [#66](https://github.com/qdriven/qfluent-go/issues/66) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+5. 🔒 Closed issue [#84](https://github.com/qdriven/qfluent-go/issues/84) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 
