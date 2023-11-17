@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5#issuecomment-1816558760) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
-2. 🔒 Closed issue [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
-3. 🎉 Merged PR [#5](https://github.com/fluent-qa/qabox-tutorials/pull/5) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-4. 💪 Opened PR [#5](https://github.com/fluent-qa/qabox-tutorials/pull/5) in [fluent-qa/qabox-tutorials](https://github.com/fluent-qa/qabox-tutorials)
-5. 🚀 Published release [integrate rest-go](https://github.com/qdriven/qfluent-go/releases/tag/v0.02) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+1. 🗣 Commented on [#3](https://github.com/qdriven/self-making/issues/3#issuecomment-1816615569) in [qdriven/self-making](https://github.com/qdriven/self-making)
+2. 🔒 Closed issue [#3](https://github.com/qdriven/self-making/issues/3) in [qdriven/self-making](https://github.com/qdriven/self-making)
+3. 🔒 Closed issue [#4](https://github.com/qdriven/self-making/issues/4) in [qdriven/self-making](https://github.com/qdriven/self-making)
+4. 🗣 Commented on [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5#issuecomment-1816558760) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
+5. 🔒 Closed issue [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
 <!--END_SECTION:activity-->
 
 
