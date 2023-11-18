@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/qdriven/self-making/issues/3#issuecomment-1816615569) in [qdriven/self-making](https://github.com/qdriven/self-making)
-2. 🔒 Closed issue [#3](https://github.com/qdriven/self-making/issues/3) in [qdriven/self-making](https://github.com/qdriven/self-making)
-3. 🔒 Closed issue [#4](https://github.com/qdriven/self-making/issues/4) in [qdriven/self-making](https://github.com/qdriven/self-making)
-4. 🗣 Commented on [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5#issuecomment-1816558760) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
-5. 🔒 Closed issue [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
+1. 🎉 Merged PR [#59](https://github.com/fluent-qa/fluentqa-pdao/pull/59) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+2. 🗣 Commented on [#3](https://github.com/qdriven/self-making/issues/3#issuecomment-1816615569) in [qdriven/self-making](https://github.com/qdriven/self-making)
+3. 🔒 Closed issue [#3](https://github.com/qdriven/self-making/issues/3) in [qdriven/self-making](https://github.com/qdriven/self-making)
+4. 🔒 Closed issue [#4](https://github.com/qdriven/self-making/issues/4) in [qdriven/self-making](https://github.com/qdriven/self-making)
+5. 🗣 Commented on [#5](https://github.com/fluent-qa/fluent-project-templates/issues/5#issuecomment-1816558760) in [fluent-qa/fluent-project-templates](https://github.com/fluent-qa/fluent-project-templates)
 <!--END_SECTION:activity-->
 
 
