@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/fluent-qa/ts-lib-starter/issues/2) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
-2. 🗣 Commented on [#85](https://github.com/qdriven/qfluent-go/issues/85#issuecomment-1825115444) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-3. 🔒 Closed issue [#85](https://github.com/qdriven/qfluent-go/issues/85) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-4. ❗ Opened issue [#85](https://github.com/qdriven/qfluent-go/issues/85) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-5. ❗ Opened issue [#1](https://github.com/fluent-qa/simplify-qa/issues/1) in [fluent-qa/simplify-qa](https://github.com/fluent-qa/simplify-qa)
+1. 🔒 Closed issue [#1](https://github.com/fluent-qa/nextjs-lessons/issues/1) in [fluent-qa/nextjs-lessons](https://github.com/fluent-qa/nextjs-lessons)
+2. ❗ Opened issue [#1](https://github.com/fluent-qa/nextjs-lessons/issues/1) in [fluent-qa/nextjs-lessons](https://github.com/fluent-qa/nextjs-lessons)
+3. ❗ Opened issue [#86](https://github.com/qdriven/qfluent-go/issues/86) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
+4. ❗ Opened issue [#2](https://github.com/fluent-qa/ts-lib-starter/issues/2) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
+5. 🗣 Commented on [#85](https://github.com/qdriven/qfluent-go/issues/85#issuecomment-1825115444) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
 <!--END_SECTION:activity-->
 
 
