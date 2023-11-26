@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/fluent-qa/fluentqa-python/issues/2) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
-2. 🔒 Closed issue [#1](https://github.com/fluent-qa/nextjs-lessons/issues/1) in [fluent-qa/nextjs-lessons](https://github.com/fluent-qa/nextjs-lessons)
-3. ❗ Opened issue [#1](https://github.com/fluent-qa/nextjs-lessons/issues/1) in [fluent-qa/nextjs-lessons](https://github.com/fluent-qa/nextjs-lessons)
-4. ❗ Opened issue [#86](https://github.com/qdriven/qfluent-go/issues/86) in [qdriven/qfluent-go](https://github.com/qdriven/qfluent-go)
-5. ❗ Opened issue [#2](https://github.com/fluent-qa/ts-lib-starter/issues/2) in [fluent-qa/ts-lib-starter](https://github.com/fluent-qa/ts-lib-starter)
+1. ❗ Opened issue [#9](https://github.com/fluent-qa/fluentqa-python/issues/9) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
+2. ❗ Opened issue [#8](https://github.com/fluent-qa/fluentqa-python/issues/8) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
+3. ❗ Opened issue [#7](https://github.com/fluent-qa/fluentqa-python/issues/7) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
+4. ❗ Opened issue [#6](https://github.com/fluent-qa/fluentqa-python/issues/6) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
+5. ❗ Opened issue [#5](https://github.com/fluent-qa/fluentqa-python/issues/5) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
 <!--END_SECTION:activity-->
 
 
