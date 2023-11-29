@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/qdriven/fluentqa-structs/issues/1) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
-2. ❗ Opened issue [#5](https://github.com/qdriven/self-making/issues/5) in [qdriven/self-making](https://github.com/qdriven/self-making)
-3. ❗ Opened issue [#9](https://github.com/fluent-qa/fluentqa-python/issues/9) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
-4. ❗ Opened issue [#8](https://github.com/fluent-qa/fluentqa-python/issues/8) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
-5. ❗ Opened issue [#7](https://github.com/fluent-qa/fluentqa-python/issues/7) in [fluent-qa/fluentqa-python](https://github.com/fluent-qa/fluentqa-python)
+1. 🗣 Commented on [#6](https://github.com/qdriven/self-making/issues/6#issuecomment-1831675827) in [qdriven/self-making](https://github.com/qdriven/self-making)
+2. 🔒 Closed issue [#6](https://github.com/qdriven/self-making/issues/6) in [qdriven/self-making](https://github.com/qdriven/self-making)
+3. ❗ Opened issue [#6](https://github.com/qdriven/self-making/issues/6) in [qdriven/self-making](https://github.com/qdriven/self-making)
+4. ❗ Opened issue [#1](https://github.com/qdriven/fluentqa-structs/issues/1) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+5. ❗ Opened issue [#5](https://github.com/qdriven/self-making/issues/5) in [qdriven/self-making](https://github.com/qdriven/self-making)
 <!--END_SECTION:activity-->
 
 
