@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/qdriven/fluent-apps/pull/2) in [qdriven/fluent-apps](https://github.com/qdriven/fluent-apps)
-2. ❗ Opened issue [#1](https://github.com/qdriven/fluent-apps/issues/1) in [qdriven/fluent-apps](https://github.com/qdriven/fluent-apps)
-3. 🗣 Commented on [#4](https://github.com/fluent-qa/fluentqa-workspace/issues/4#issuecomment-1833305780) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-4. 🔒 Closed issue [#4](https://github.com/fluent-qa/fluentqa-workspace/issues/4) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. 🔒 Closed issue [#5](https://github.com/fluent-qa/fluentqa-workspace/issues/5) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. 🎉 Merged PR [#2](https://github.com/qdriven/fluent-apps/pull/2) in [qdriven/fluent-apps](https://github.com/qdriven/fluent-apps)
+2. 💪 Opened PR [#2](https://github.com/qdriven/fluent-apps/pull/2) in [qdriven/fluent-apps](https://github.com/qdriven/fluent-apps)
+3. ❗ Opened issue [#1](https://github.com/qdriven/fluent-apps/issues/1) in [qdriven/fluent-apps](https://github.com/qdriven/fluent-apps)
+4. 🗣 Commented on [#4](https://github.com/fluent-qa/fluentqa-workspace/issues/4#issuecomment-1833305780) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+5. 🔒 Closed issue [#4](https://github.com/fluent-qa/fluentqa-workspace/issues/4) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
 
 
