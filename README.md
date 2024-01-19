@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/qdriven/fluentqa-structs/pull/5) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
-2. 🎉 Merged PR [#30](https://github.com/fluent-qa/fluentqa-pybase/pull/30) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
-3. 🎉 Merged PR [#63](https://github.com/fluent-qa/fluentqa-pdao/pull/63) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-4. 🎉 Merged PR [#62](https://github.com/fluent-qa/fluentqa-pdao/pull/62) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-5. 🎉 Merged PR [#29](https://github.com/fluent-qa/fluentqa-pybase/pull/29) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+1. ❗ Opened issue [#2](https://github.com/fluent-qa/pyqa-30min/issues/2) in [fluent-qa/pyqa-30min](https://github.com/fluent-qa/pyqa-30min)
+2. 🔒 Closed issue [#1](https://github.com/fluent-qa/pyqa-30min/issues/1) in [fluent-qa/pyqa-30min](https://github.com/fluent-qa/pyqa-30min)
+3. 🗣 Commented on [#1](https://github.com/fluent-qa/pyqa-30min/issues/1#issuecomment-1899883621) in [fluent-qa/pyqa-30min](https://github.com/fluent-qa/pyqa-30min)
+4. ❗ Opened issue [#1](https://github.com/fluent-qa/pyqa-30min/issues/1) in [fluent-qa/pyqa-30min](https://github.com/fluent-qa/pyqa-30min)
+5. 🎉 Merged PR [#5](https://github.com/qdriven/fluentqa-structs/pull/5) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
 <!--END_SECTION:activity-->
 
 
