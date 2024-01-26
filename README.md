@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/fluent-qa/fluentqa-workspace/issues/17) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. ❗ Opened issue [#16](https://github.com/fluent-qa/fluentqa-workspace/issues/16) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. ❗ Opened issue [#15](https://github.com/fluent-qa/fluentqa-workspace/issues/15) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-4. ❗ Opened issue [#14](https://github.com/fluent-qa/fluentqa-workspace/issues/14) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. 🔒 Closed issue [#4](https://github.com/fluent-qa/pyqa-30min/issues/4) in [fluent-qa/pyqa-30min](https://github.com/fluent-qa/pyqa-30min)
+1. ❗ Opened issue [#18](https://github.com/fluent-qa/fluentqa-workspace/issues/18) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+2. ❗ Opened issue [#17](https://github.com/fluent-qa/fluentqa-workspace/issues/17) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+3. ❗ Opened issue [#16](https://github.com/fluent-qa/fluentqa-workspace/issues/16) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+4. ❗ Opened issue [#15](https://github.com/fluent-qa/fluentqa-workspace/issues/15) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+5. ❗ Opened issue [#14](https://github.com/fluent-qa/fluentqa-workspace/issues/14) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
 
 
