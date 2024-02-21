@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/fluent-qa/fluentqa-pdao/pull/65) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-2. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-pybase/pull/33) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
-3. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-pybase/pull/34) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
-4. 🎉 Merged PR [#36](https://github.com/fluent-qa/fluentqa-pybase/pull/36) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
-5. 🎉 Merged PR [#64](https://github.com/fluent-qa/fluentqa-pdao/pull/64) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. 🎉 Merged PR [#9](https://github.com/qdriven/fluentqa-structs/pull/9) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+2. 🎉 Merged PR [#10](https://github.com/qdriven/fluentqa-structs/pull/10) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+3. 🎉 Merged PR [#65](https://github.com/fluent-qa/fluentqa-pdao/pull/65) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+4. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-pybase/pull/33) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+5. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-pybase/pull/34) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
 <!--END_SECTION:activity-->
 
 
