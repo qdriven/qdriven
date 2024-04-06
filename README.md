@@ -46,11 +46,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/qdriven/qpyone/pull/100) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-2. 🎉 Merged PR [#101](https://github.com/qdriven/qpyone/pull/101) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-3. 🎉 Merged PR [#67](https://github.com/fluent-qa/fluentqa-pdao/pull/67) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-4. ❌ Closed PR [#97](https://github.com/qdriven/qpyone/pull/97) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
-5. ❌ Closed PR [#96](https://github.com/qdriven/qpyone/pull/96) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+1. ❗ Opened issue [#102](https://github.com/qdriven/qpyone/issues/102) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+2. 🎉 Merged PR [#100](https://github.com/qdriven/qpyone/pull/100) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+3. 🎉 Merged PR [#101](https://github.com/qdriven/qpyone/pull/101) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+4. 🎉 Merged PR [#67](https://github.com/fluent-qa/fluentqa-pdao/pull/67) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+5. ❌ Closed PR [#97](https://github.com/qdriven/qpyone/pull/97) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
 <!--END_SECTION:activity-->
 
 
