@@ -46,8 +46,8 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/qdriven/qa-fe-lessons/issues/1) in [qdriven/qa-fe-lessons](https://github.com/qdriven/qa-fe-lessons)
-2. ❗ Opened issue [#17](https://github.com/qdriven/low-code-way/issues/17) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+1. 🎉 Merged PR [#48](https://github.com/fluent-qa/fluentqa-pybase/pull/48) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+2. ❗ Opened issue [#1](https://github.com/qdriven/qa-fe-lessons/issues/1) in [qdriven/qa-fe-lessons](https://github.com/qdriven/qa-fe-lessons)
 3. ❗ Opened issue [#103](https://github.com/qdriven/qpyone/issues/103) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
 4. 🗣 Commented on [#102](https://github.com/qdriven/qpyone/issues/102#issuecomment-2040939587) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
 5. 🔒 Closed issue [#102](https://github.com/qdriven/qpyone/issues/102) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
