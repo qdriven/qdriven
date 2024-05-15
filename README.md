@@ -12,19 +12,13 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/qdriven/count.svg" />
 </p>
-**About Me**
-
-- 💼 Do Enterprise Application and Blockchain Application Testing and Coding for a living
-- ❤️ Love writing code, Java,Golang,Python,Typescript 
-- 💬 Old enough but still curious about new tech, history
-- Enjoy my average personal life, and hope peace everywhere
 
 
 ## Working in Process for QA
 
 - [python-for-qa](https://github.com/fluent-qa/fluentqa-python) common used python libs in qa
 - [QA-Simple-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
-- [Revisited-QA](https://fluentqa-revistied.netlify.app/)
+
 
 ### Working In Process General Purposes
 
