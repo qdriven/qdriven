@@ -8,7 +8,10 @@
 <br />
 
 I'm a self-taught Software Engineer in Both Dev and Testing from China. 
-
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/qdriven/count.svg" />
+</p>
 **About Me**
 
 - 💼 Do Enterprise Application and Blockchain Application Testing and Coding for a living
