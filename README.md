@@ -43,9 +43,9 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/fluent-qa/fluentqa-workspace/issues/19#issuecomment-2104119886) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. 🔒 Closed issue [#19](https://github.com/fluent-qa/fluentqa-workspace/issues/19) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. 🔒 Closed issue [#1](https://github.com/qdriven/self-starter/issues/1) in [qdriven/self-starter](https://github.com/qdriven/self-starter)
+1. 🎉 Merged PR [#52](https://github.com/fluent-qa/fluentqa-pybase/pull/52) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
+2. 🗣 Commented on [#19](https://github.com/fluent-qa/fluentqa-workspace/issues/19#issuecomment-2104119886) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+3. 🔒 Closed issue [#19](https://github.com/fluent-qa/fluentqa-workspace/issues/19) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 4. 🔒 Closed issue [#2](https://github.com/qdriven/self-starter/issues/2) in [qdriven/self-starter](https://github.com/qdriven/self-starter)
 5. 🔒 Closed issue [#102](https://github.com/qdriven/qpyone/issues/102) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
 <!--END_SECTION:activity-->
