@@ -16,8 +16,8 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 
 ## Working in Process for QA
 
-- [python-for-qa](https://github.com/fluent-qa/fluentqa-python) common used python libs in qa
-- [QA-Simple-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+- [daily-python](https://github.com/fluent-qa/Daily-python)
+- [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
 
 
 ### Working In Process General Purposes
