@@ -32,10 +32,6 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 **qdriven/qdriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-|github stats|most used language |
-|--------------------|--------------------------------------------|
-|<a href="https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&hide_border=true&show_icons=true&count_private=true&theme=buefy&include_all_commits=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&hide_border=true&show_icons=true&count_private=true&theme=buefy&include_all_commits=true" /></a>| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=buefy&hide_border=true" /></a>|
-
 
 ![GitHub followers](https://img.shields.io/github/followers/qdriven?label=Follow&style=social)
 
