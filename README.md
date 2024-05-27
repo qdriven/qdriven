@@ -14,16 +14,14 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 </p>
 
 
-## Working in Process for QA
+## Working in Process 
 
-- [daily-python](https://github.com/fluent-qa/Daily-python)
-- [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+- [] [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git) QA Daily Work Management Application include Test Case/API Testing/Automation/.......
+- [] [daily-python](https://github.com/fluent-qa/Daily-python)
 
+## Template Projects
 
-### Working In Process General Purposes
-
-- [project-templates](https://github.com/fluent-qa/fluent-project-templates)
-
+- [*] [project-templates](https://github.com/fluent-qa/fluent-project-templates) Template Project for different Language 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -33,6 +31,7 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 <!--
 **qdriven/qdriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
+
 |github stats|most used language |
 |--------------------|--------------------------------------------|
 |<a href="https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&hide_border=true&show_icons=true&count_private=true&theme=buefy&include_all_commits=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&hide_border=true&show_icons=true&count_private=true&theme=buefy&include_all_commits=true" /></a>| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=buefy&hide_border=true" /></a>|
@@ -51,7 +50,4 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 <!--END_SECTION:activity-->
 
 
-<!-- ### Working In Process
 
-- [low-code-study](https://github.com/qdriven/low-code-way)
-- [python lessons for QA](https://github.com/qdriven/py-for-qa) -->
