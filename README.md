@@ -21,7 +21,7 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 
 ## Template Projects
 
-- [*] [project-templates](https://github.com/fluent-qa/fluent-project-templates) Template Project for different Language 
+- [X] [project-templates](https://github.com/fluent-qa/fluent-project-templates) Template Project for different Language 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
