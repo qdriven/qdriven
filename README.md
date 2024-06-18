@@ -43,11 +43,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/qdriven/fluentqa-structs/pull/14) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
-2. 💪 Opened PR [#14](https://github.com/qdriven/fluentqa-structs/pull/14) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
-3. 🎉 Merged PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-4. 💪 Opened PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-5. 🎉 Merged PR [#1](https://github.com/fluent-qa/fluentqa-pytpl/pull/1) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+1. ❗ Opened issue [#68](https://github.com/fluent-qa/fluentqa-pdao/issues/68) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+2. 🎉 Merged PR [#14](https://github.com/qdriven/fluentqa-structs/pull/14) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+3. 💪 Opened PR [#14](https://github.com/qdriven/fluentqa-structs/pull/14) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+4. 🎉 Merged PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+5. 💪 Opened PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
 <!--END_SECTION:activity-->
 
 
