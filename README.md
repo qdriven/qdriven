@@ -14,19 +14,17 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 </p>
 
 
-## Working in Process/Maintain
+## 1.Working in Process/Maintain
 
-1. ***python***:
+### 1.1 ***python***:
 - [X] [python-template project](https://github.com/fluent-qa/fluentqa-pytpl) copier and pdm python template project
 - [X] [daily-python](https://github.com/fluent-qa/Daily-python) python daily script and tools
 
 
-2. ***Software QA Workspace and toolkits***
-- [] [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git) QA Daily Work Management Application include Test Case/API Testing/Automation/.......
+### 1.2 ***Software QA Workspace and toolkits***
+- [X] [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git) QA Daily Work Management Application include Test Case/API Testing/Automation/.......
 
-
-
-## Template Projects
+### 2. Template Projects
 
 - [X] [project-templates](https://github.com/fluent-qa/fluent-project-templates) Template Project for different Language 
 
