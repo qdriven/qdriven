@@ -38,11 +38,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/fluent-qa/python-30min/issues/7) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-2. ❗ Opened issue [#6](https://github.com/fluent-qa/python-30min/issues/6) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-3. ❗ Opened issue [#5](https://github.com/fluent-qa/python-30min/issues/5) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-4. ❗ Opened issue [#4](https://github.com/fluent-qa/python-30min/issues/4) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-5. ❗ Opened issue [#3](https://github.com/fluent-qa/python-30min/issues/3) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+1. 🎉 Merged PR [#1](https://github.com/fluent-qa/fluentqa-pytpl/pull/1) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+2. 💪 Opened PR [#1](https://github.com/fluent-qa/fluentqa-pytpl/pull/1) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+3. ❗ Opened issue [#7](https://github.com/fluent-qa/python-30min/issues/7) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+4. ❗ Opened issue [#6](https://github.com/fluent-qa/python-30min/issues/6) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+5. ❗ Opened issue [#5](https://github.com/fluent-qa/python-30min/issues/5) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
 <!--END_SECTION:activity-->
 
 
