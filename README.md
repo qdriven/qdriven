@@ -43,11 +43,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-2. 💪 Opened PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-3. 🎉 Merged PR [#1](https://github.com/fluent-qa/fluentqa-pytpl/pull/1) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-4. 💪 Opened PR [#1](https://github.com/fluent-qa/fluentqa-pytpl/pull/1) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-5. ❗ Opened issue [#7](https://github.com/fluent-qa/python-30min/issues/7) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+1. 🎉 Merged PR [#14](https://github.com/qdriven/fluentqa-structs/pull/14) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+2. 💪 Opened PR [#14](https://github.com/qdriven/fluentqa-structs/pull/14) in [qdriven/fluentqa-structs](https://github.com/qdriven/fluentqa-structs)
+3. 🎉 Merged PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+4. 💪 Opened PR [#2](https://github.com/fluent-qa/fluentqa-pytpl/pull/2) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+5. 🎉 Merged PR [#1](https://github.com/fluent-qa/fluentqa-pytpl/pull/1) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
 <!--END_SECTION:activity-->
 
 
