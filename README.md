@@ -43,11 +43,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/fluent-qa/python-30min/issues/1#issuecomment-2175750051) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-2. 🔒 Closed issue [#1](https://github.com/fluent-qa/python-30min/issues/1) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-3. 🗣 Commented on [#4](https://github.com/fluent-qa/python-30min/issues/4#issuecomment-2175749662) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-4. 🔒 Closed issue [#4](https://github.com/fluent-qa/python-30min/issues/4) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-5. 🗣 Commented on [#6](https://github.com/fluent-qa/python-30min/issues/6#issuecomment-2175749272) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+1. ❗ Opened issue [#70](https://github.com/fluent-qa/fluentqa-pdao/issues/70) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+2. 🗣 Commented on [#1](https://github.com/fluent-qa/python-30min/issues/1#issuecomment-2175750051) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+3. 🔒 Closed issue [#1](https://github.com/fluent-qa/python-30min/issues/1) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+4. 🗣 Commented on [#4](https://github.com/fluent-qa/python-30min/issues/4#issuecomment-2175749662) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+5. 🔒 Closed issue [#4](https://github.com/fluent-qa/python-30min/issues/4) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
 <!--END_SECTION:activity-->
 
 
