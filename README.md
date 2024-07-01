@@ -43,11 +43,11 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/fluent-qa/python-30min/issues/11) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
-2. 🔒 Closed issue [#1](https://github.com/fluent-qa/daily-python/issues/1) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-3. ❗ Opened issue [#1](https://github.com/fluent-qa/daily-python/issues/1) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-4. 🎉 Merged PR [#74](https://github.com/fluent-qa/fluentqa-pdao/pull/74) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
-5. 💪 Opened PR [#74](https://github.com/fluent-qa/fluentqa-pdao/pull/74) in [fluent-qa/fluentqa-pdao](https://github.com/fluent-qa/fluentqa-pdao)
+1. ❗ Opened issue [#13](https://github.com/fluent-qa/python-30min/issues/13) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+2. ❗ Opened issue [#12](https://github.com/fluent-qa/python-30min/issues/12) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+3. ❗ Opened issue [#11](https://github.com/fluent-qa/python-30min/issues/11) in [fluent-qa/python-30min](https://github.com/fluent-qa/python-30min)
+4. 🔒 Closed issue [#1](https://github.com/fluent-qa/daily-python/issues/1) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+5. ❗ Opened issue [#1](https://github.com/fluent-qa/daily-python/issues/1) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
 <!--END_SECTION:activity-->
 
 
