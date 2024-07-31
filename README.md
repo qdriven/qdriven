@@ -71,11 +71,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/fluent-qa/fluentqa-workspace/issues/23) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. ❗ Opened issue [#22](https://github.com/fluent-qa/fluentqa-workspace/issues/22) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. ❗ Opened issue [#21](https://github.com/fluent-qa/fluentqa-workspace/issues/21) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-4. 🎉 Merged PR [#52](https://github.com/fluent-qa/fluentqa-pybase/pull/52) in [fluent-qa/fluentqa-pybase](https://github.com/fluent-qa/fluentqa-pybase)
-5. 🔒 Closed issue [#102](https://github.com/qdriven/qpyone/issues/102) in [qdriven/qpyone](https://github.com/qdriven/qpyone)
+1. 🔒 Closed issue [#3](https://github.com/qdriven/qworkspace/issues/3) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
+2. 🔒 Closed issue [#7](https://github.com/qdriven/qworkspace/issues/7) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
+3. 🔒 Closed issue [#10](https://github.com/fluent-qa/fluentqa-helper/issues/10) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+4. ❗ Opened issue [#12](https://github.com/fluent-qa/fluentqa-helper/issues/12) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+5. ❗ Opened issue [#11](https://github.com/fluent-qa/fluentqa-helper/issues/11) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
 <!--END_SECTION:activity-->
 
 
