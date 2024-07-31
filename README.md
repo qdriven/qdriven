@@ -71,11 +71,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
-2. 💪 Opened PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
-3. 🔒 Closed issue [#3](https://github.com/qdriven/qworkspace/issues/3) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
-4. 🔒 Closed issue [#7](https://github.com/qdriven/qworkspace/issues/7) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
-5. 🔒 Closed issue [#10](https://github.com/fluent-qa/fluentqa-helper/issues/10) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+1. ❗ Opened issue [#2](https://github.com/qdriven/automation-with-ai/issues/2) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
+2. ❗ Opened issue [#1](https://github.com/qdriven/automation-with-ai/issues/1) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
+3. 🎉 Merged PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+4. 💪 Opened PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+5. 🔒 Closed issue [#3](https://github.com/qdriven/qworkspace/issues/3) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
 <!--END_SECTION:activity-->
 
 
