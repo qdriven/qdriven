@@ -71,11 +71,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/qdriven/qworkspace/issues/3) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
-2. 🔒 Closed issue [#7](https://github.com/qdriven/qworkspace/issues/7) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
-3. 🔒 Closed issue [#10](https://github.com/fluent-qa/fluentqa-helper/issues/10) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
-4. ❗ Opened issue [#12](https://github.com/fluent-qa/fluentqa-helper/issues/12) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
-5. ❗ Opened issue [#11](https://github.com/fluent-qa/fluentqa-helper/issues/11) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
+1. 🎉 Merged PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+2. 💪 Opened PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+3. 🔒 Closed issue [#3](https://github.com/qdriven/qworkspace/issues/3) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
+4. 🔒 Closed issue [#7](https://github.com/qdriven/qworkspace/issues/7) in [qdriven/qworkspace](https://github.com/qdriven/qworkspace)
+5. 🔒 Closed issue [#10](https://github.com/fluent-qa/fluentqa-helper/issues/10) in [fluent-qa/fluentqa-helper](https://github.com/fluent-qa/fluentqa-helper)
 <!--END_SECTION:activity-->
 
 
