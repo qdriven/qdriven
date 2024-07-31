@@ -20,9 +20,37 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 - [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
 
 
-### Working In Process General Purposes
 
-- [project-templates](https://github.com/fluent-qa/fluent-project-templates)
+## 2.Templates Project for Daily QA
+
+Software QA may use different tools to complete dialy tasks, like test-ops,automation testing .......
+Here are some project templates to speed up project settings.
+- [Working in Process for QA](#working-in-process-for-qa)
+- [2.Templates Project for Daily QA](#2templates-project-for-daily-qa)
+  - [Devops/TestOps Project Template](#devopstestops-project-template)
+  - [Dev/Automation Project Templates-Different Language](#devautomation-project-templates-different-language)
+  - [Docs Site Template](#docs-site-template)
+  - [:zap: Recent Activity](#zap-recent-activity)
+
+
+### Devops/TestOps Project Template
+
+- [X][ansible-playbook-template](https://github.com/qdriven/ansible-playbook-templates.git)
+- [] K8S Setting
+
+### Dev/Automation Project Templates-Different Language
+
+- [X][Python-template project](ttps://github.com/fluent-qa/fluentqa-pytpl.git)Python Project
+- [X][JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git)JAVA Maven/Gradle Project
+- [X][golang-template project](https://github.com/fluent-qa/fluentqa-gotpl.git) golang template project
+- [X][typescript-lib](https://github.com/fluent-qa/ts-lib-starter)Typescript lib template project
+- [X][typescript-mono-repo](https://github.com/qdriven/mono-ts-starter.git)typescript mono template project
+
+### Docs Site Template
+
+- [X][fluentqa-mdocs-template](https://github.com/qdriven/fluentqa-md-docs-template.git)
+- [X][nextra-docs-templates](https://github.com/qdriven/docs-templates)
+
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
