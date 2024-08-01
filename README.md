@@ -71,11 +71,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/qdriven/automation-with-ai/issues/3) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
-2. ❗ Opened issue [#2](https://github.com/qdriven/automation-with-ai/issues/2) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
-3. ❗ Opened issue [#1](https://github.com/qdriven/automation-with-ai/issues/1) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
-4. 🎉 Merged PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
-5. 💪 Opened PR [#2](https://github.com/fluent-qa/qfluent-ops/pull/2) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+1. ❗ Opened issue [#5](https://github.com/qdriven/automation-with-ai/issues/5) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
+2. ❗ Opened issue [#4](https://github.com/qdriven/automation-with-ai/issues/4) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
+3. ❗ Opened issue [#3](https://github.com/qdriven/automation-with-ai/issues/3) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
+4. ❗ Opened issue [#2](https://github.com/qdriven/automation-with-ai/issues/2) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
+5. ❗ Opened issue [#1](https://github.com/qdriven/automation-with-ai/issues/1) in [qdriven/automation-with-ai](https://github.com/qdriven/automation-with-ai)
 <!--END_SECTION:activity-->
 
 
