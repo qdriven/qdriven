@@ -12,16 +12,34 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/qdriven/count.svg" />
 </p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 
-## Working in Process for QA
+## 1.Working in Process for QA
 
-- [daily-python](https://github.com/fluent-qa/Daily-python)
-- [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+- 1. [daily-python](https://github.com/fluent-qa/Daily-python)
+- 2. [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+- 3. [work-with-ai](https://github.com/qdriven/work-with-ai)
 
+More daily is comming .......
 
+### 1.1 Daily-pYthon Project
 
-## 2.Templates Project for Daily QA
+- [] [daily-python](https://github.com/fluent-qa/Daily-python)
+
+### 1.2 QA-Workspace
+
+- [] [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+
+### 1.3 Work-with-ai
+
+- [] [work-with-ai](https://github.com/qdriven/work-with-ai)
+
+## 2. Completed Projects
+### 2.1.Templates Project for Daily QA
 
 Software QA may use different tools to complete dialy tasks, like test-ops,automation testing .......
 Here are some project templates to speed up project settings.
@@ -32,12 +50,12 @@ Here are some project templates to speed up project settings.
   - [Docs Site Template](#docs-site-template)
 
 
-### Devops/TestOps Project Template
+### 2.2 Devops/TestOps Project Template
 
 - [X] [ansible-playbook-template](https://github.com/qdriven/ansible-playbook-templates.git)
 - [] K8S Setting
 
-### Dev/Automation Project Templates-Different Language
+### 2.3 Dev/Automation Project Templates-Different Language
 
 - [X] [Python-template project](ttps://github.com/fluent-qa/fluentqa-pytpl.git)Python Project
 - [X] [JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git)JAVA Maven/Gradle Project
@@ -45,17 +63,14 @@ Here are some project templates to speed up project settings.
 - [X] [typescript-lib](https://github.com/fluent-qa/ts-lib-starter)Typescript lib template project
 - [X] [typescript-mono-repo](https://github.com/qdriven/mono-ts-starter.git)typescript mono template project
 
-### Docs Site Template
+### 2.4 Docs Site Template
 
 - [X] [fluentqa-mdocs-template](https://github.com/qdriven/fluentqa-md-docs-template.git)
 - [X] [nextra-docs-templates](https://github.com/qdriven/docs-templates)
 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+
 
 <!--
 **qdriven/qdriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
