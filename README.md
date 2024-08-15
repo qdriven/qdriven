@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/qdriven/work-with-ai/issues/8) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
-2. ❗ Opened issue [#3](https://github.com/fluent-qa/qfluent-ops/issues/3) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
-3. ❗ Opened issue [#4](https://github.com/fluent-qa/daily-python/issues/4) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-4. 🎉 Merged PR [#8](https://github.com/fluent-qa/qpybase/pull/8) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-5. ❗ Opened issue [#2](https://github.com/fluent-qa/qpystructs/issues/2) in [fluent-qa/qpystructs](https://github.com/fluent-qa/qpystructs)
+1. 🎉 Merged PR [#4](https://github.com/fluent-qa/qgops/pull/4) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+2. 💪 Opened PR [#4](https://github.com/fluent-qa/qgops/pull/4) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+3. ❗ Opened issue [#8](https://github.com/qdriven/work-with-ai/issues/8) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
+4. ❗ Opened issue [#3](https://github.com/fluent-qa/qfluent-ops/issues/3) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+5. ❗ Opened issue [#4](https://github.com/fluent-qa/daily-python/issues/4) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
 <!--END_SECTION:activity-->
 
 
