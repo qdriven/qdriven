@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/fluent-qa/daily-python/issues/4) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-2. 🎉 Merged PR [#8](https://github.com/fluent-qa/qpybase/pull/8) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-3. ❗ Opened issue [#2](https://github.com/fluent-qa/qpystructs/issues/2) in [fluent-qa/qpystructs](https://github.com/fluent-qa/qpystructs)
-4. ❗ Opened issue [#1](https://github.com/qdriven/ts-30min/issues/1) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
-5. ❗ Opened issue [#1](https://github.com/fluent-qa/qpyconf/issues/1) in [fluent-qa/qpyconf](https://github.com/fluent-qa/qpyconf)
+1. ❗ Opened issue [#3](https://github.com/fluent-qa/qfluent-ops/issues/3) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+2. ❗ Opened issue [#4](https://github.com/fluent-qa/daily-python/issues/4) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+3. 🎉 Merged PR [#8](https://github.com/fluent-qa/qpybase/pull/8) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+4. ❗ Opened issue [#2](https://github.com/fluent-qa/qpystructs/issues/2) in [fluent-qa/qpystructs](https://github.com/fluent-qa/qpystructs)
+5. ❗ Opened issue [#1](https://github.com/qdriven/ts-30min/issues/1) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
 <!--END_SECTION:activity-->
 
 
