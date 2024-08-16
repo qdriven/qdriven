@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/fluent-qa/qgops/issues/5) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-2. 🎉 Merged PR [#4](https://github.com/fluent-qa/qgops/pull/4) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-3. 💪 Opened PR [#4](https://github.com/fluent-qa/qgops/pull/4) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-4. ❗ Opened issue [#8](https://github.com/qdriven/work-with-ai/issues/8) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
-5. ❗ Opened issue [#3](https://github.com/fluent-qa/qfluent-ops/issues/3) in [fluent-qa/qfluent-ops](https://github.com/fluent-qa/qfluent-ops)
+1. ❗ Opened issue [#9](https://github.com/qdriven/work-with-ai/issues/9) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
+2. ❗ Opened issue [#5](https://github.com/fluent-qa/qgops/issues/5) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+3. 🎉 Merged PR [#4](https://github.com/fluent-qa/qgops/pull/4) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+4. 💪 Opened PR [#4](https://github.com/fluent-qa/qgops/pull/4) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+5. ❗ Opened issue [#8](https://github.com/qdriven/work-with-ai/issues/8) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
 <!--END_SECTION:activity-->
 
 
