@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/qdriven/low-code-way/pull/19) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-2. 💪 Opened PR [#19](https://github.com/qdriven/low-code-way/pull/19) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-3. ❗ Opened issue [#1](https://github.com/fluent-qa/fe-next-starter/issues/1) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-4. ❗ Opened issue [#18](https://github.com/qdriven/low-code-way/issues/18) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-5. ❗ Opened issue [#30](https://github.com/fluent-qa/fluentqa-workspace/issues/30) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. ❗ Opened issue [#20](https://github.com/qdriven/low-code-way/issues/20) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
+2. 🔒 Closed issue [#3](https://github.com/fluent-qa/qgops/issues/3) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+3. 🗣 Commented on [#6](https://github.com/fluent-qa/qgops/issues/6#issuecomment-2339917476) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+4. 🔒 Closed issue [#6](https://github.com/fluent-qa/qgops/issues/6) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+5. 🔒 Closed issue [#7](https://github.com/fluent-qa/qgops/issues/7) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
 <!--END_SECTION:activity-->
 
 
