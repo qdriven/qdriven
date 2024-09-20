@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/fluent-qa/fluentqa-workspace/issues/31) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. ❗ Opened issue [#9](https://github.com/fluent-qa/qgops/issues/9) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-3. ❗ Opened issue [#20](https://github.com/qdriven/low-code-way/issues/20) in [qdriven/low-code-way](https://github.com/qdriven/low-code-way)
-4. 🔒 Closed issue [#3](https://github.com/fluent-qa/qgops/issues/3) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-5. 🗣 Commented on [#6](https://github.com/fluent-qa/qgops/issues/6#issuecomment-2339917476) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+1. 🎉 Merged PR [#3](https://github.com/qdriven/ts-30min/pull/3) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+2. 🎉 Merged PR [#4](https://github.com/qdriven/ts-30min/pull/4) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+3. 🎉 Merged PR [#7](https://github.com/qdriven/ts-30min/pull/7) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+4. 🎉 Merged PR [#12](https://github.com/qdriven/ts-30min/pull/12) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+5. 🎉 Merged PR [#13](https://github.com/qdriven/ts-30min/pull/13) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
 <!--END_SECTION:activity-->
 
 
