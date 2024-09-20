@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/fluent-qa/fluentqa-workspace/issues/26) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. 🔒 Closed issue [#31](https://github.com/fluent-qa/fluentqa-workspace/issues/31) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. 🔒 Closed issue [#32](https://github.com/fluent-qa/fluentqa-workspace/issues/32) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-4. ❗ Opened issue [#32](https://github.com/fluent-qa/fluentqa-workspace/issues/32) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. 🎉 Merged PR [#3](https://github.com/qdriven/ts-30min/pull/3) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+1. ❗ Opened issue [#1](https://github.com/qdriven/fluent-slides/issues/1) in [qdriven/fluent-slides](https://github.com/qdriven/fluent-slides)
+2. 🔒 Closed issue [#26](https://github.com/fluent-qa/fluentqa-workspace/issues/26) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+3. 🔒 Closed issue [#31](https://github.com/fluent-qa/fluentqa-workspace/issues/31) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+4. 🔒 Closed issue [#32](https://github.com/fluent-qa/fluentqa-workspace/issues/32) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+5. ❗ Opened issue [#32](https://github.com/fluent-qa/fluentqa-workspace/issues/32) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
 
 
