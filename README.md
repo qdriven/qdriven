@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/qdriven/ts-30min/pull/14) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
-2. 🎉 Merged PR [#15](https://github.com/qdriven/ts-30min/pull/15) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
-3. ❗ Opened issue [#1](https://github.com/qdriven/fluent-slides/issues/1) in [qdriven/fluent-slides](https://github.com/qdriven/fluent-slides)
-4. 🔒 Closed issue [#26](https://github.com/fluent-qa/fluentqa-workspace/issues/26) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. 🔒 Closed issue [#31](https://github.com/fluent-qa/fluentqa-workspace/issues/31) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. ❗ Opened issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
+2. 🎉 Merged PR [#14](https://github.com/qdriven/ts-30min/pull/14) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+3. 🎉 Merged PR [#15](https://github.com/qdriven/ts-30min/pull/15) in [qdriven/ts-30min](https://github.com/qdriven/ts-30min)
+4. ❗ Opened issue [#1](https://github.com/qdriven/fluent-slides/issues/1) in [qdriven/fluent-slides](https://github.com/qdriven/fluent-slides)
+5. 🔒 Closed issue [#26](https://github.com/fluent-qa/fluentqa-workspace/issues/26) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
 
 
