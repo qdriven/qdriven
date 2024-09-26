@@ -20,23 +20,23 @@ I'm a self-taught Software Engineer in Both Dev and Testing from China.
 
 ## 1.Working in Process for QA
 
-- 1. [daily-python](https://github.com/fluent-qa/Daily-python)
-- 2. [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
-- 3. [work-with-ai](https://github.com/qdriven/work-with-ai)
+- [daily-python](https://github.com/fluent-qa/Daily-python)
+- [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+  [work-with-ai](https://github.com/qdriven/work-with-ai)
 
 More daily is comming .......
 
 ### 1.1 Daily-pYthon Project
 
-- [] [daily-python](https://github.com/fluent-qa/Daily-python)
+- [daily-python](https://github.com/fluent-qa/Daily-python)
 
 ### 1.2 QA-Workspace
 
-- [] [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
+- [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
 
 ### 1.3 Work-with-ai
 
-- [] [work-with-ai](https://github.com/qdriven/work-with-ai)
+- [work-with-ai](https://github.com/qdriven/work-with-ai)
 
 ## 2. Completed Projects
 ### 2.1.Templates Project for Daily QA
