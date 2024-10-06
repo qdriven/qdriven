@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#634](https://github.com/RSSNext/Follow/issues/634) in [RSSNext/Follow](https://github.com/RSSNext/Follow)
-2. ❗ Opened issue [#11](https://github.com/fluent-qa/qgops/issues/11) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-3. 🗣 Commented on [#9](https://github.com/fluent-qa/qgops/issues/9#issuecomment-2365426984) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-4. 🔒 Closed issue [#9](https://github.com/fluent-qa/qgops/issues/9) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-5. ❗ Opened issue [#10](https://github.com/fluent-qa/qgops/issues/10) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+1. 🎉 Merged PR [#14](https://github.com/fluent-qa/qpybase/pull/14) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+2. ❗ Opened issue [#634](https://github.com/RSSNext/Follow/issues/634) in [RSSNext/Follow](https://github.com/RSSNext/Follow)
+3. ❗ Opened issue [#11](https://github.com/fluent-qa/qgops/issues/11) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+4. 🗣 Commented on [#9](https://github.com/fluent-qa/qgops/issues/9#issuecomment-2365426984) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+5. 🔒 Closed issue [#9](https://github.com/fluent-qa/qgops/issues/9) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
 <!--END_SECTION:activity-->
 
 
