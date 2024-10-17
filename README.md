@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/qdriven/work-with-ai/issues/2#issuecomment-2408446832) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
-2. ❗ Opened issue [#2](https://github.com/qdriven/work-with-ai/issues/2) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
-3. 🔒 Closed issue [#1](https://github.com/qdriven/work-with-ai/issues/1) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
-4. 🗣 Commented on [#1](https://github.com/qdriven/work-with-ai/issues/1#issuecomment-2408446612) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
-5. ❗ Opened issue [#1](https://github.com/qdriven/work-with-ai/issues/1) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
+1. 🎉 Merged PR [#13](https://github.com/qdriven/mono-ts-starter/pull/13) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+2. 🎉 Merged PR [#21](https://github.com/qdriven/mono-ts-starter/pull/21) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+3. 🗣 Commented on [#2](https://github.com/qdriven/work-with-ai/issues/2#issuecomment-2408446832) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
+4. ❗ Opened issue [#2](https://github.com/qdriven/work-with-ai/issues/2) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
+5. 🔒 Closed issue [#1](https://github.com/qdriven/work-with-ai/issues/1) in [qdriven/work-with-ai](https://github.com/qdriven/work-with-ai)
 <!--END_SECTION:activity-->
 
 
