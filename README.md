@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-2. 🔒 Closed issue [#3](https://github.com/fluent-qa/daily-python/issues/3) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-3. 🔒 Closed issue [#4](https://github.com/fluent-qa/daily-python/issues/4) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-4. ❗ Opened issue [#7](https://github.com/fluent-qa/daily-python/issues/7) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-5. 🎉 Merged PR [#6](https://github.com/fluent-qa/daily-python/pull/6) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+1. ❗ Opened issue [#1](https://github.com/fluent-qa/30mins-python/issues/1) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
+2. 🔒 Closed issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+3. 🔒 Closed issue [#3](https://github.com/fluent-qa/daily-python/issues/3) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+4. 🔒 Closed issue [#4](https://github.com/fluent-qa/daily-python/issues/4) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+5. ❗ Opened issue [#7](https://github.com/fluent-qa/daily-python/issues/7) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
 <!--END_SECTION:activity-->
 
 
