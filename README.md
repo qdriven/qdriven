@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/fluent-qa/30mins-python/issues/5) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
-2. 🔒 Closed issue [#4](https://github.com/fluent-qa/30mins-python/issues/4) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
-3. ❗ Opened issue [#4](https://github.com/fluent-qa/30mins-python/issues/4) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
-4. 🗣 Commented on [#2](https://github.com/fluent-qa/30mins-python/issues/2#issuecomment-2428548349) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
-5. 🔒 Closed issue [#2](https://github.com/fluent-qa/30mins-python/issues/2) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
+1. 🎉 Merged PR [#5](https://github.com/fluent-qa/qpystructs/pull/5) in [fluent-qa/qpystructs](https://github.com/fluent-qa/qpystructs)
+2. ❗ Opened issue [#5](https://github.com/fluent-qa/30mins-python/issues/5) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
+3. 🔒 Closed issue [#4](https://github.com/fluent-qa/30mins-python/issues/4) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
+4. ❗ Opened issue [#4](https://github.com/fluent-qa/30mins-python/issues/4) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
+5. 🗣 Commented on [#2](https://github.com/fluent-qa/30mins-python/issues/2#issuecomment-2428548349) in [fluent-qa/30mins-python](https://github.com/fluent-qa/30mins-python)
 <!--END_SECTION:activity-->
 
 
