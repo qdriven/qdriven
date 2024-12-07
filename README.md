@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/qdriven/ai-workspace/issues/1) in [qdriven/ai-workspace](https://github.com/qdriven/ai-workspace)
-2. ❗ Opened issue [#4](https://github.com/qdriven/qdriven.github.io/issues/4) in [qdriven/qdriven.github.io](https://github.com/qdriven/qdriven.github.io)
-3. ❗ Opened issue [#3](https://github.com/qdriven/qdriven.github.io/issues/3) in [qdriven/qdriven.github.io](https://github.com/qdriven/qdriven.github.io)
-4. ❗ Opened issue [#2](https://github.com/qdriven/qdriven.github.io/issues/2) in [qdriven/qdriven.github.io](https://github.com/qdriven/qdriven.github.io)
-5. ❗ Opened issue [#1](https://github.com/qdriven/qdriven.github.io/issues/1) in [qdriven/qdriven.github.io](https://github.com/qdriven/qdriven.github.io)
+1. 🎉 Merged PR [#2](https://github.com/qdriven/ai-workspace/pull/2) in [qdriven/ai-workspace](https://github.com/qdriven/ai-workspace)
+2. 💪 Opened PR [#2](https://github.com/qdriven/ai-workspace/pull/2) in [qdriven/ai-workspace](https://github.com/qdriven/ai-workspace)
+3. ❗ Opened issue [#1](https://github.com/qdriven/ai-workspace/issues/1) in [qdriven/ai-workspace](https://github.com/qdriven/ai-workspace)
+4. ❗ Opened issue [#4](https://github.com/qdriven/qdriven.github.io/issues/4) in [qdriven/qdriven.github.io](https://github.com/qdriven/qdriven.github.io)
+5. ❗ Opened issue [#3](https://github.com/qdriven/qdriven.github.io/issues/3) in [qdriven/qdriven.github.io](https://github.com/qdriven/qdriven.github.io)
 <!--END_SECTION:activity-->
 
 
