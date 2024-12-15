@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/fluent-qa/qpystructs/pull/7) in [fluent-qa/qpystructs](https://github.com/fluent-qa/qpystructs)
-2. ❗ Opened issue [#8](https://github.com/fluent-qa/daily-python/issues/8) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-3. 🗣 Commented on [#299](https://github.com/nexus-xyz/nexus-zkvm/issues/299#issuecomment-2531059517) in [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm)
-4. 🎉 Merged PR [#2](https://github.com/qdriven/ai-workspace/pull/2) in [qdriven/ai-workspace](https://github.com/qdriven/ai-workspace)
-5. 💪 Opened PR [#2](https://github.com/qdriven/ai-workspace/pull/2) in [qdriven/ai-workspace](https://github.com/qdriven/ai-workspace)
+1. ❌ Closed PR [#16](https://github.com/fluent-qa/qpybase/pull/16) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+2. ❌ Closed PR [#17](https://github.com/fluent-qa/qpybase/pull/17) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+3. ❌ Closed PR [#20](https://github.com/fluent-qa/qpybase/pull/20) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+4. 🎉 Merged PR [#21](https://github.com/fluent-qa/qpybase/pull/21) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+5. 💪 Opened PR [#21](https://github.com/fluent-qa/qpybase/pull/21) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
 <!--END_SECTION:activity-->
 
 
