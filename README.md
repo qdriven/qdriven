@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fluent-qa/qpyconf/pull/1) in [fluent-qa/qpyconf](https://github.com/fluent-qa/qpyconf)
-2. 💪 Opened PR [#1](https://github.com/fluent-qa/qpyconf/pull/1) in [fluent-qa/qpyconf](https://github.com/fluent-qa/qpyconf)
-3. 🎉 Merged PR [#78](https://github.com/fluent-qa/qpydao/pull/78) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
-4. ❌ Closed PR [#16](https://github.com/fluent-qa/qpybase/pull/16) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-5. ❌ Closed PR [#17](https://github.com/fluent-qa/qpybase/pull/17) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+1. 🎉 Merged PR [#80](https://github.com/fluent-qa/qpydao/pull/80) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
+2. 💪 Opened PR [#80](https://github.com/fluent-qa/qpydao/pull/80) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
+3. ❌ Closed PR [#79](https://github.com/fluent-qa/qpydao/pull/79) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
+4. 💪 Opened PR [#79](https://github.com/fluent-qa/qpydao/pull/79) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
+5. 🎉 Merged PR [#1](https://github.com/fluent-qa/qpyconf/pull/1) in [fluent-qa/qpyconf](https://github.com/fluent-qa/qpyconf)
 <!--END_SECTION:activity-->
 
 
