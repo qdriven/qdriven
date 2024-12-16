@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/fluent-qa/qpybase/pull/16) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-2. ❌ Closed PR [#17](https://github.com/fluent-qa/qpybase/pull/17) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-3. ❌ Closed PR [#20](https://github.com/fluent-qa/qpybase/pull/20) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-4. 🎉 Merged PR [#21](https://github.com/fluent-qa/qpybase/pull/21) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
-5. 💪 Opened PR [#21](https://github.com/fluent-qa/qpybase/pull/21) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+1. 🎉 Merged PR [#1](https://github.com/fluent-qa/qpyconf/pull/1) in [fluent-qa/qpyconf](https://github.com/fluent-qa/qpyconf)
+2. 💪 Opened PR [#1](https://github.com/fluent-qa/qpyconf/pull/1) in [fluent-qa/qpyconf](https://github.com/fluent-qa/qpyconf)
+3. 🎉 Merged PR [#78](https://github.com/fluent-qa/qpydao/pull/78) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
+4. ❌ Closed PR [#16](https://github.com/fluent-qa/qpybase/pull/16) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
+5. ❌ Closed PR [#17](https://github.com/fluent-qa/qpybase/pull/17) in [fluent-qa/qpybase](https://github.com/fluent-qa/qpybase)
 <!--END_SECTION:activity-->
 
 
