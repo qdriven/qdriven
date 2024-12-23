@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/fluent-qa/daily-python/issues/1) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-2. 🎉 Merged PR [#80](https://github.com/fluent-qa/qpydao/pull/80) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
-3. 💪 Opened PR [#80](https://github.com/fluent-qa/qpydao/pull/80) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
-4. ❌ Closed PR [#79](https://github.com/fluent-qa/qpydao/pull/79) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
-5. 💪 Opened PR [#79](https://github.com/fluent-qa/qpydao/pull/79) in [fluent-qa/qpydao](https://github.com/fluent-qa/qpydao)
+1. ❌ Closed PR [#24](https://github.com/qdriven/mono-ts-starter/pull/24) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+2. ❌ Closed PR [#36](https://github.com/qdriven/mono-ts-starter/pull/36) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+3. ❌ Closed PR [#38](https://github.com/qdriven/mono-ts-starter/pull/38) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+4. ❌ Closed PR [#39](https://github.com/qdriven/mono-ts-starter/pull/39) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+5. 🎉 Merged PR [#40](https://github.com/qdriven/mono-ts-starter/pull/40) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
 <!--END_SECTION:activity-->
 
 
