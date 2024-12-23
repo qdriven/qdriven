@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/qdriven/mono-ts-starter/pull/24) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
-2. ❌ Closed PR [#36](https://github.com/qdriven/mono-ts-starter/pull/36) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
-3. ❌ Closed PR [#38](https://github.com/qdriven/mono-ts-starter/pull/38) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
-4. ❌ Closed PR [#39](https://github.com/qdriven/mono-ts-starter/pull/39) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
-5. 🎉 Merged PR [#40](https://github.com/qdriven/mono-ts-starter/pull/40) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+1. ❗ Opened issue [#1](https://github.com/qdriven/workwith-ai/issues/1) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+2. ❌ Closed PR [#24](https://github.com/qdriven/mono-ts-starter/pull/24) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+3. ❌ Closed PR [#36](https://github.com/qdriven/mono-ts-starter/pull/36) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+4. ❌ Closed PR [#38](https://github.com/qdriven/mono-ts-starter/pull/38) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+5. ❌ Closed PR [#39](https://github.com/qdriven/mono-ts-starter/pull/39) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
 <!--END_SECTION:activity-->
 
 
