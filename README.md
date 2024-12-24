@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/qdriven/workwith-ai/issues/2) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-2. ❗ Opened issue [#1](https://github.com/fluent-qa/fe-next-starter/issues/1) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-3. ❗ Opened issue [#1](https://github.com/qdriven/workwith-ai/issues/1) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-4. ❌ Closed PR [#24](https://github.com/qdriven/mono-ts-starter/pull/24) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
-5. ❌ Closed PR [#36](https://github.com/qdriven/mono-ts-starter/pull/36) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
+1. ❗ Opened issue [#2](https://github.com/fluent-qa/fe-next-starter/issues/2) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+2. ❗ Opened issue [#2](https://github.com/qdriven/workwith-ai/issues/2) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+3. ❗ Opened issue [#1](https://github.com/fluent-qa/fe-next-starter/issues/1) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+4. ❗ Opened issue [#1](https://github.com/qdriven/workwith-ai/issues/1) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+5. ❌ Closed PR [#24](https://github.com/qdriven/mono-ts-starter/pull/24) in [qdriven/mono-ts-starter](https://github.com/qdriven/mono-ts-starter)
 <!--END_SECTION:activity-->
 
 
