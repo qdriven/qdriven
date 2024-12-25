@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/fluent-qa/fe-next-starter/issues/3) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-2. 🗣 Commented on [#1](https://github.com/qdriven/workwith-ai/issues/1#issuecomment-2560689669) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-3. 🔒 Closed issue [#1](https://github.com/qdriven/workwith-ai/issues/1) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-4. ❗ Opened issue [#2](https://github.com/fluent-qa/fe-next-starter/issues/2) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-5. ❗ Opened issue [#2](https://github.com/qdriven/workwith-ai/issues/2) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+1. ❗ Opened issue [#4](https://github.com/fluent-qa/fe-next-starter/issues/4) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+2. ❗ Opened issue [#3](https://github.com/fluent-qa/fe-next-starter/issues/3) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+3. 🗣 Commented on [#1](https://github.com/qdriven/workwith-ai/issues/1#issuecomment-2560689669) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+4. 🔒 Closed issue [#1](https://github.com/qdriven/workwith-ai/issues/1) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+5. ❗ Opened issue [#2](https://github.com/fluent-qa/fe-next-starter/issues/2) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
 <!--END_SECTION:activity-->
 
 
