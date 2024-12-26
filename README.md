@@ -85,11 +85,11 @@ Here are some project templates to speed up project settings.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/fluent-qa/fe-next-starter/pull/7) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-2. 💪 Opened PR [#7](https://github.com/fluent-qa/fe-next-starter/pull/7) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-3. ❌ Closed PR [#6](https://github.com/fluent-qa/fe-next-starter/pull/6) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-4. 💪 Opened PR [#6](https://github.com/fluent-qa/fe-next-starter/pull/6) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-5. 🔒 Closed issue [#2](https://github.com/qdriven/app-revisited/issues/2) in [qdriven/app-revisited](https://github.com/qdriven/app-revisited)
+1. ❗ Opened issue [#8](https://github.com/fluent-qa/fe-next-starter/issues/8) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+2. 🔒 Closed issue [#1](https://github.com/fluent-qa/fe-next-starter/issues/1) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+3. 🔒 Closed issue [#2](https://github.com/fluent-qa/fe-next-starter/issues/2) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+4. 🔒 Closed issue [#3](https://github.com/fluent-qa/fe-next-starter/issues/3) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+5. 🔒 Closed issue [#5](https://github.com/fluent-qa/fe-next-starter/issues/5) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
 <!--END_SECTION:activity-->
 
 
