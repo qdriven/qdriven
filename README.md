@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/fluent-qa/fe-next-starter/issues/9) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-2. 🔒 Closed issue [#8](https://github.com/fluent-qa/fe-next-starter/issues/8) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-3. ❗ Opened issue [#8](https://github.com/fluent-qa/fe-next-starter/issues/8) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-4. 🔒 Closed issue [#1](https://github.com/fluent-qa/fe-next-starter/issues/1) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-5. 🔒 Closed issue [#2](https://github.com/fluent-qa/fe-next-starter/issues/2) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+1. ❗ Opened issue [#1](https://github.com/qdriven/qdriven/issues/1) in [qdriven/qdriven](https://github.com/qdriven/qdriven)
+2. ❗ Opened issue [#9](https://github.com/fluent-qa/fe-next-starter/issues/9) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+3. 🔒 Closed issue [#8](https://github.com/fluent-qa/fe-next-starter/issues/8) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+4. ❗ Opened issue [#8](https://github.com/fluent-qa/fe-next-starter/issues/8) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+5. 🔒 Closed issue [#1](https://github.com/fluent-qa/fe-next-starter/issues/1) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
 <!--END_SECTION:activity-->
