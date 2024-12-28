@@ -31,7 +31,7 @@ Something come up to me:
 
 ## 1. Daily Code Collections
 
-- [daily-python](https://github.com/fluent-qa/Daily-python)
+- [Daily-Python](https://github.com/fluent-qa/Daily-python)
 - [QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace.git)
 
 ## 2. Working in AI Age
@@ -42,7 +42,7 @@ Something come up to me:
 ## 3. Templates Project for Daily QA
 
 - [X] [ansible-playbook-template](https://github.com/qdriven/ansible-playbook-templates.git)
-- [X] [Python-template project](ttps://github.com/fluent-qa/fluentqa-pytpl.git)Python Project
+- [X] [Python-template project](https://github.com/fluent-qa/fluentqa-pytpl.git)Python Project
 - [X] [JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git)JAVA Maven/Gradle Project
 - [X] [golang-template project](https://github.com/fluent-qa/fluentqa-gotpl.git) golang template project
 - [X] [typescript-lib](https://github.com/fluent-qa/ts-lib-starter)Typescript lib template project
