@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/fluent-qa/qgops/issues/12) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-2. ❗ Opened issue [#10](https://github.com/fluent-qa/fe-next-starter/issues/10) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-3. ❗ Opened issue [#5](https://github.com/qdriven/workwith-ai/issues/5) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-4. ❗ Opened issue [#4](https://github.com/qdriven/workwith-ai/issues/4) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-5. ❗ Opened issue [#3](https://github.com/qdriven/workwith-ai/issues/3) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+1. ❗ Opened issue [#13](https://github.com/fluent-qa/qgops/issues/13) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+2. ❗ Opened issue [#12](https://github.com/fluent-qa/qgops/issues/12) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+3. ❗ Opened issue [#10](https://github.com/fluent-qa/fe-next-starter/issues/10) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+4. ❗ Opened issue [#5](https://github.com/qdriven/workwith-ai/issues/5) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+5. ❗ Opened issue [#4](https://github.com/qdriven/workwith-ai/issues/4) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
 <!--END_SECTION:activity-->
