@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-2. 🗣 Commented on [#5](https://github.com/fluent-qa/qgops/issues/5#issuecomment-2568735552) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-3. 🔒 Closed issue [#5](https://github.com/fluent-qa/qgops/issues/5) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-4. 🗣 Commented on [#10](https://github.com/fluent-qa/qgops/issues/10#issuecomment-2568735245) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-5. 🔒 Closed issue [#10](https://github.com/fluent-qa/qgops/issues/10) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+1. ❗ Opened issue [#6](https://github.com/qdriven/workwith-ai-chains/issues/6) in [qdriven/workwith-ai-chains](https://github.com/qdriven/workwith-ai-chains)
+2. ❗ Opened issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+3. 🗣 Commented on [#5](https://github.com/fluent-qa/qgops/issues/5#issuecomment-2568735552) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+4. 🔒 Closed issue [#5](https://github.com/fluent-qa/qgops/issues/5) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+5. 🗣 Commented on [#10](https://github.com/fluent-qa/qgops/issues/10#issuecomment-2568735245) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
 <!--END_SECTION:activity-->
