@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/fluent-qa/fe-next-starter/issues/11) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-2. ❗ Opened issue [#6](https://github.com/qdriven/workwith-ai-chains/issues/6) in [qdriven/workwith-ai-chains](https://github.com/qdriven/workwith-ai-chains)
-3. ❗ Opened issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-4. 🗣 Commented on [#5](https://github.com/fluent-qa/qgops/issues/5#issuecomment-2568735552) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-5. 🔒 Closed issue [#5](https://github.com/fluent-qa/qgops/issues/5) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+1. ❗ Opened issue [#14](https://github.com/fluent-qa/qgops/issues/14) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+2. ❗ Opened issue [#11](https://github.com/fluent-qa/fe-next-starter/issues/11) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
+3. ❗ Opened issue [#6](https://github.com/qdriven/workwith-ai-chains/issues/6) in [qdriven/workwith-ai-chains](https://github.com/qdriven/workwith-ai-chains)
+4. ❗ Opened issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+5. 🗣 Commented on [#5](https://github.com/fluent-qa/qgops/issues/5#issuecomment-2568735552) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
 <!--END_SECTION:activity-->
