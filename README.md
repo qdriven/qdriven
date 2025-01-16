@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/qdriven/revisited/issues/3) in [qdriven/revisited](https://github.com/qdriven/revisited)
-2. 🔒 Closed issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
-3. ❗ Opened issue [#2](https://github.com/qdriven/revisited/issues/2) in [qdriven/revisited](https://github.com/qdriven/revisited)
-4. ❗ Opened issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
-5. ❗ Opened issue [#14](https://github.com/fluent-qa/qgops/issues/14) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
+1. ❗ Opened issue [#4](https://github.com/qdriven/revisited/issues/4) in [qdriven/revisited](https://github.com/qdriven/revisited)
+2. ❗ Opened issue [#3](https://github.com/qdriven/revisited/issues/3) in [qdriven/revisited](https://github.com/qdriven/revisited)
+3. 🔒 Closed issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
+4. ❗ Opened issue [#2](https://github.com/qdriven/revisited/issues/2) in [qdriven/revisited](https://github.com/qdriven/revisited)
+5. ❗ Opened issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
 <!--END_SECTION:activity-->
