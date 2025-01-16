@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
-2. ❗ Opened issue [#14](https://github.com/fluent-qa/qgops/issues/14) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
-3. ❗ Opened issue [#11](https://github.com/fluent-qa/fe-next-starter/issues/11) in [fluent-qa/fe-next-starter](https://github.com/fluent-qa/fe-next-starter)
-4. ❗ Opened issue [#6](https://github.com/qdriven/workwith-ai-chains/issues/6) in [qdriven/workwith-ai-chains](https://github.com/qdriven/workwith-ai-chains)
-5. ❗ Opened issue [#2](https://github.com/fluent-qa/daily-python/issues/2) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
+1. ❗ Opened issue [#3](https://github.com/qdriven/revisited/issues/3) in [qdriven/revisited](https://github.com/qdriven/revisited)
+2. 🔒 Closed issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
+3. ❗ Opened issue [#2](https://github.com/qdriven/revisited/issues/2) in [qdriven/revisited](https://github.com/qdriven/revisited)
+4. ❗ Opened issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
+5. ❗ Opened issue [#14](https://github.com/fluent-qa/qgops/issues/14) in [fluent-qa/qgops](https://github.com/fluent-qa/qgops)
 <!--END_SECTION:activity-->
