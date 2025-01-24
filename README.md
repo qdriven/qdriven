@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/fluent-qa/fluentqa-pytpl/issues/3) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-2. ❗ Opened issue [#3](https://github.com/fluent-qa/fluentqa-pytpl/issues/3) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
-3. ❗ Opened issue [#4](https://github.com/qdriven/revisited/issues/4) in [qdriven/revisited](https://github.com/qdriven/revisited)
-4. ❗ Opened issue [#3](https://github.com/qdriven/revisited/issues/3) in [qdriven/revisited](https://github.com/qdriven/revisited)
-5. 🔒 Closed issue [#1](https://github.com/qdriven/revisited/issues/1) in [qdriven/revisited](https://github.com/qdriven/revisited)
+1. ❗ Opened issue [#3](https://github.com/qdriven/app-revisited/issues/3) in [qdriven/app-revisited](https://github.com/qdriven/app-revisited)
+2. 🔒 Closed issue [#3](https://github.com/fluent-qa/fluentqa-pytpl/issues/3) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+3. ❗ Opened issue [#3](https://github.com/fluent-qa/fluentqa-pytpl/issues/3) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
+4. ❗ Opened issue [#4](https://github.com/qdriven/revisited/issues/4) in [qdriven/revisited](https://github.com/qdriven/revisited)
+5. ❗ Opened issue [#3](https://github.com/qdriven/revisited/issues/3) in [qdriven/revisited](https://github.com/qdriven/revisited)
 <!--END_SECTION:activity-->
