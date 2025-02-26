@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/qdriven/revisited/issues/6) in [qdriven/revisited](https://github.com/qdriven/revisited)
-2. ❗ Opened issue [#3](https://github.com/fluent-qa/daily-python/issues/3) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
-3. ❗ Opened issue [#3](https://github.com/qdriven/app-revisited/issues/3) in [qdriven/app-revisited](https://github.com/qdriven/app-revisited)
+1. ❗ Opened issue [#1](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/1) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
+2. ❗ Opened issue [#6](https://github.com/qdriven/revisited/issues/6) in [qdriven/revisited](https://github.com/qdriven/revisited)
+3. ❗ Opened issue [#3](https://github.com/fluent-qa/daily-python/issues/3) in [fluent-qa/daily-python](https://github.com/fluent-qa/daily-python)
 4. 🔒 Closed issue [#3](https://github.com/fluent-qa/fluentqa-pytpl/issues/3) in [fluent-qa/fluentqa-pytpl](https://github.com/fluent-qa/fluentqa-pytpl)
 5. ❗ Opened issue [#4](https://github.com/qdriven/revisited/issues/4) in [qdriven/revisited](https://github.com/qdriven/revisited)
 <!--END_SECTION:activity-->
