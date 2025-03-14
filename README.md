@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/qdriven/app-revisited/issues/5) in [qdriven/app-revisited](https://github.com/qdriven/app-revisited)
-2. ❗ Opened issue [#6](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/6) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
-3. ❗ Opened issue [#5](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/5) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
-4. 🔒 Closed issue [#4](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/4) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
-5. ❗ Opened issue [#4](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/4) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
+1. ❗ Opened issue [#1](https://github.com/qdriven/chain-basic/issues/1) in [qdriven/chain-basic](https://github.com/qdriven/chain-basic)
+2. ❗ Opened issue [#5](https://github.com/qdriven/app-revisited/issues/5) in [qdriven/app-revisited](https://github.com/qdriven/app-revisited)
+3. ❗ Opened issue [#6](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/6) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
+4. ❗ Opened issue [#5](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/5) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
+5. 🔒 Closed issue [#4](https://github.com/qdriven/ai-websitebuilder-tutorials/issues/4) in [qdriven/ai-websitebuilder-tutorials](https://github.com/qdriven/ai-websitebuilder-tutorials)
 <!--END_SECTION:activity-->
