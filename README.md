@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-2. 💪 Opened PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-4. 💪 Opened PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-5. ❗ Opened issue [#1](https://github.com/qdriven/chain-basic/issues/1) in [qdriven/chain-basic](https://github.com/qdriven/chain-basic)
+1. ❗ Opened issue [#37](https://github.com/fluent-qa/fluentqa-workspace/issues/37) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+2. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+3. 💪 Opened PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+4. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+5. 💪 Opened PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
