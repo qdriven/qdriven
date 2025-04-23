@@ -64,7 +64,7 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/fluent-qa/fluentqa-workspace/issues/37) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. ❗ Opened issue [#3](https://github.com/qdriven/workwith-ai/issues/3) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
 2. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 3. 💪 Opened PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 4. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
