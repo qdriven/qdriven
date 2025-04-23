@@ -64,9 +64,9 @@ Something come up to me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/qdriven/workwith-ai/issues/3) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
-2. 🎉 Merged PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
-3. 💪 Opened PR [#34](https://github.com/fluent-qa/fluentqa-workspace/pull/34) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
+1. ❗ Opened issue [#2](https://github.com/qdriven/workwith-ai/issues/2) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+2. ❗ Opened issue [#1](https://github.com/qdriven/workwith-ai/issues/1) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
+3. ❗ Opened issue [#3](https://github.com/qdriven/workwith-ai/issues/3) in [qdriven/workwith-ai](https://github.com/qdriven/workwith-ai)
 4. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 5. 💪 Opened PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
