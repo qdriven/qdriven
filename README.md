@@ -41,18 +41,37 @@ In the **AI age**, I'm basically that person who spent years learning to drive m
 
 ## 📦 **Project Categories** *(My Digital Junk Drawer, But Organized)*
 
-### 🔧 **1. Daily Code Collections & Learning Resources**
-*Where I dump code snippets I'll probably never use again (but might!)*
-
-- **[Daily-Python](https://github.com/fluent-qa/Daily-python)** - Python snippets I collected while procrastinating
-- **[QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace)** - QA tools that actually work *(shocking, I know)*
-
 ### 🤖 **2. AI-Enhanced Development**
 *My attempts to make friends with our future robot overlords*
 
+#### 🚀 **Products**
+- **[AI-Code-Assistant](https://github.com/qdriven/ai-code-assistant)** - Custom coding assistants for different programming tasks
+- **[AI-Content-Generator](https://github.com/qdriven/ai-content-gen)** - Automated content creation for documentation and blogs
+
+#### 🧪 **Playground & Testing**
+- **[LLM-Playground](https://github.com/qdriven/llm-playground)** - Experimenting with different language models
+- **[Prompt-Engineering-Lab](https://github.com/qdriven/prompt-lab)** - Testing and refining prompts for optimal results
+
+#### 🔧 **Vibe Coding & Daily Tools**
+- **[AI-Dev-Toolkit](https://github.com/qdriven/ai-dev-toolkit)** - Collection of AI-powered utilities for daily coding tasks
+- **[Code-Companion](https://github.com/qdriven/code-companion)** - Smart assistant for code reviews and refactoring
+
+#### ⚙️ **AI DevOps Scripts**
+- **[AI-CI-Pipeline](https://github.com/qdriven/ai-ci-pipeline)** - Intelligent CI/CD workflows with automated testing
+- **[Infra-Copilot](https://github.com/qdriven/infra-copilot)** - AI-assisted infrastructure management
+
+#### 📚 **Tutorials & Learning**
+- **[AI-Dev-Journey](https://github.com/qdriven/ai-dev-journey)** - Documenting my learning path with AI tools
 - **[Work-with-AI](https://github.com/qdriven/work-with-ai)** - Where I experiment with AI tools and occasionally get useful results
 
-### 🏗️ **3. Development Templates & Starters**
+### 🗄️ **3. Archive Projects**
+*The digital equivalent of my storage unit - stuff I might need someday*
+
+#### 📦 **Daily Code Collections**
+- **[Daily-Python](https://github.com/fluent-qa/Daily-python)** - Python snippets I collected while procrastinating
+- **[QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace)** - QA tools that actually work *(shocking, I know)*
+
+### 🏗️ **4. Development Templates & Starters**
 *Because I'm too lazy to set up projects from scratch every time*
 
 **Infrastructure & DevOps:**
