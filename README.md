@@ -131,9 +131,9 @@ In the **AI age**, I'm basically that person who spent years learning to drive m
 ### ⚡ **Recent Activity** *(My Latest Digital Shenanigans)*
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
-2. ❗ Opened issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
-3. 💪 Opened PR [#1](https://github.com/qdriven/byte-composer/pull/1) in [qdriven/byte-composer](https://github.com/qdriven/byte-composer)
+1. 🔒 Closed issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
+2. ❗ Opened issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
+3. ❗ Opened issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
 4. 🎉 Merged PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 5. 💪 Opened PR [#33](https://github.com/fluent-qa/fluentqa-workspace/pull/33) in [fluent-qa/fluentqa-workspace](https://github.com/fluent-qa/fluentqa-workspace)
 <!--END_SECTION:activity-->
