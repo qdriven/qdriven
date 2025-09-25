@@ -132,8 +132,8 @@ In the **AI age**, I'm basically that person who spent years learning to drive m
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
-2.  Labeled issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
-3. ❗ Opened issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
+2. ❗ Opened issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
+3. ❗ Opened issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
 4.  Labeled issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
 5. ❗ Opened issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
 <!--END_SECTION:activity-->
