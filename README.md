@@ -131,7 +131,7 @@ In the **AI age**, I'm basically that person who spent years learning to drive m
 ### ⚡ **Recent Activity** *(My Latest Digital Shenanigans)*
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
+1. ❗ Opened issue [#1](https://github.com/variableway/case-studies/issues/1) in [variableway/case-studies](https://github.com/variableway/case-studies)
 2. ❗ Opened issue [#2](https://github.com/variableway/.github/issues/2) in [variableway/.github](https://github.com/variableway/.github)
 3. ❗ Opened issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
 4.  Labeled issue [#1](https://github.com/variableway/.github/issues/1) in [variableway/.github](https://github.com/variableway/.github)
