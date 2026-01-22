@@ -25,9 +25,11 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=qdriven&theme=dark)](https://github.com/qdriven)
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=qdriven&theme=github-compact)](https://github.com/qdriven)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=dark&hide_border=true)](https://github.com/qdriven)
+
 
  <!--Alternative GitHub Stats Options:
 1. Basic GitHub Stats: https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&theme=dark
