@@ -44,23 +44,6 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 
 ---
 
-<!--## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)-->
-
-
-
- <!--Alternative GitHub Stats Options:
-1. Basic GitHub Stats: https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&theme=dark
-2. Activity Graph: https://github-readme-activity-graph.vercel.app/graph?username=qdriven&theme=github-compact
-3. Contribution Graph: https://ghchart.rshah.org/qdriven
-4. Simple Stats: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark-->
-
-<!--</div>-->
-
-
 ## Current Working on
 
 - AI-powered productivity tools
