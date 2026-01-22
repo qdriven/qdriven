@@ -38,7 +38,7 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=dark&hide_border=true)](https://github.com/qdriven)
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=dark&hide_border=true)](https://github.com/qdriven)-->
 
 </div>
 
