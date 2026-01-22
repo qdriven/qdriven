@@ -9,7 +9,6 @@ Team leadership • Full-stack coding • QA automation • AI integration • C
 **Current focus:**
 Exploring AI applications in daily tools, QA productivity, and infrastructure solutions through GitHub projects.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +18,7 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
