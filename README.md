@@ -74,6 +74,4 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 | Category | Project | Description |
 |----------|---------|-------------|
 | 🗄️ QA Tools | [**QA-Workspace**](https://github.com/fluent-qa/fluentqa-workspace) | Java-based QA productivity suite: test case management, API spec management, testing, record & replay, automation framework |
-| 🏗️ Templates | [**Python Template**](https://github.com/fluent-qa/fluentqa-pytpl) | Python project starter with best practices |
-| 🏗️ Templates | [**TypeScript Starter**](https://github.com/fluent-qa/ts-lib-starter) | Modern TypeScript library template |
-| 🏗️ Templates | [**Go Template**](https://github.com/fluent-qa/fluentqa-gotpl) | Golang project starter template |
+| 🏗️ Templates | [**starter template**](https://github.com/fluent-qa/fluent-project-templates) | go/python/ts starter projects with best practices |
