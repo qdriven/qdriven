@@ -9,12 +9,18 @@
   <img src="https://img.shields.io/github/followers/qdriven?label=Follow&style=social" alt="GitHub followers" />
 </a>
 </p>
+<p align="left">
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+</p>
 
 ---
 
 ## 📊 GitHub Overview
 
-<div align="center">
+<div align="left">
 
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)
 
@@ -36,12 +42,6 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-</p>
 
 ---
 
@@ -68,5 +68,6 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 - AI powered tutorials for 
 - Revisit QA automation tools
 - Personal Infrastructure solutions
+- Building in Public
 
 ## Achieved Projects - Before AI Age
