@@ -1,5 +1,29 @@
 # Hi there 👋
 
+
+<!--<p>
+  <img src="https://komarev.com/ghpvc/?username=qdriven&style=flat-square&color=blue" alt="Profile views" />
+</p>-->
+<p>
+<a href="https://github.com/qdriven?tab=followers">
+  <img src="https://img.shields.io/github/followers/qdriven?label=Follow&style=social" alt="GitHub followers" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=dark&hide_border=true)](https://github.com/qdriven)
+
+</div>
+
+---
+
 **Bio:**
 Self-taught full-stack developer with QA automation expertise, building AI-powered productivity tools and sharing learning through open-source projects.
 
@@ -26,9 +50,7 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 <div align="center">
 
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=qdriven&theme=github-compact)](https://github.com/qdriven)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=dark&hide_border=true)](https://github.com/qdriven)
 
 
  <!--Alternative GitHub Stats Options:
@@ -37,17 +59,14 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 3. Contribution Graph: https://ghchart.rshah.org/qdriven
 4. Simple Stats: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark-->
 
-
 </div>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qdriven&style=flat-square&color=blue" alt="Profile views" />
-</p>
+## Current Working on
 
-<p align="center">
-<a href="https://github.com/qdriven?tab=followers">
-  <img src="https://img.shields.io/github/followers/qdriven?label=Follow&style=social" alt="GitHub followers" />
-</a>
-</p>
+- AI-powered productivity tools
+- AI powered tutorials for 
+- Revisit QA automation tools
+- Personal Infrastructure solutions
+
+## Achieved Projects - Before AI Age
