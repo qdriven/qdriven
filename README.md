@@ -25,16 +25,23 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=qdriven&theme=dark)](https://github.com/qdriven)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qdriven&layout=compact&theme=dark&hide_border=true)](https://github.com/qdriven)
+
+ Alternative GitHub Stats Options:
+1. Basic GitHub Stats: https://github-readme-stats.vercel.app/api?username=qdriven&show_icons=true&theme=dark
+2. Activity Graph: https://github-readme-activity-graph.vercel.app/graph?username=qdriven&theme=github-compact
+3. Contribution Graph: https://ghchart.rshah.org/qdriven
+4. Simple Stats: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark
+
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/qdriven/count.svg" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=qdriven&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
