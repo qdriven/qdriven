@@ -44,11 +44,11 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark)](https://github.com/qdriven)-->
 
 
 
@@ -58,7 +58,7 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 3. Contribution Graph: https://ghchart.rshah.org/qdriven
 4. Simple Stats: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark-->
 
-</div>
+<!--</div>-->
 
 
 ## Current Working on
