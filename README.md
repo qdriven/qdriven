@@ -4,29 +4,32 @@
 <!--<p>
   <img src="https://komarev.com/ghpvc/?username=qdriven&style=flat-square&color=blue" alt="Profile views" />
 </p>-->
-<div style="display: flex; align-items: center; gap: 20px;">
-    <a href="https://github.com/qdriven?tab=followers">
-      <img src="https://img.shields.io/github/followers/qdriven?label=Follow&style=social" alt="GitHub followers" />
-    </a>
-    <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-    </div>
-</div>
+<table>
+<tr>
+<td>
+<a href="https://github.com/qdriven?tab=followers">
+  <img src="https://img.shields.io/github/followers/qdriven?label=Follow&style=social" alt="GitHub followers" />
+</a>
+</td>
+<td>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+</td>
+</tr>
+</table>
 
 ---
 
 
-
-**Bio:**
+- **Bio:**
 Self-taught full-stack developer with QA automation expertise, building AI-powered productivity tools and sharing learning through open-source projects.
 
-**Strengths:**
+- **Strengths:**
 Team leadership • Full-stack coding • QA automation • AI integration • Continuous learning
 
-**Current focus:**
+- **Current focus:**
 Exploring AI applications in daily tools, QA productivity, and infrastructure solutions through GitHub projects.
 
 ## 📊 GitHub Overview
