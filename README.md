@@ -70,3 +70,11 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 - Building in Public
 
 ## Achieved Projects - Before AI Age
+
+-  🗄️ **QA & Development Tools**
+  - **[QA-Workspace](https://github.com/fluent-qa/fluentqa-workspace)**: JAVA basedQA productivity tools and frameworks from test case management,API spec management, API testing, API record and replay, and api testing case generation，automation framework, based on JAVA
+
+- 🏗️ **Templates & Starters**
+  - **[Python Project Template](https://github.com/fluent-qa/fluentqa-pytpl)** - Python starter with best practices
+  - **[TypeScript Library Starter](https://github.com/fluent-qa/ts-lib-starter)** - Modern TypeScript project template
+  - **[Go Template Project](https://github.com/fluent-qa/fluentqa-gotpl)** - Golang project starter
