@@ -24,13 +24,9 @@
 
 
 - **Bio:**
-Self-taught full-stack developer with QA automation expertise, building AI-powered productivity tools and sharing learning through open-source projects.
+Self-taught
 
-- **Strengths:**
-Team leadership • Full-stack coding • QA automation • AI integration • Continuous learning
 
-- **Current focus:**
-Exploring AI applications in daily tools, QA productivity, and infrastructure solutions through GitHub projects.
 
 ## 📊 GitHub Overview
 
@@ -43,18 +39,3 @@ Exploring AI applications in daily tools, QA productivity, and infrastructure so
 </div>
 
 ---
-
-## Current Working on
-
-- AI-powered productivity tools
-- AI powered tutorials for 
-- Revisit QA automation tools
-- Personal Infrastructure solutions
-- Building in Public
-
-## Achieved Projects - Before AI Age
-
-| Category | Project | Description |
-|----------|---------|-------------|
-| 🗄️ QA Tools | [**QA-Workspace**](https://github.com/fluent-qa/fluentqa-workspace) | Java-based QA productivity suite: test case management, API spec management, testing, record & replay, automation framework |
-| 🏗️ Templates | [**starter template**](https://github.com/fluent-qa/fluent-project-templates) | go/python/ts starter projects with best practices |
