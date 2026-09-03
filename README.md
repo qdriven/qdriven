@@ -134,7 +134,17 @@ Self-taught developer who walked the full path: **manual testing → QA automati
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| - | - | *News will appear here after first workflow run* |
+| Tech | Thu, 03 Sep 202 | [Codex Is Down](https://github.com/openai/codex/issues/28756) |
+| Tech | Thu, 03 Sep 202 | [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) |
+| Tech | Thu, 03 Sep 202 | [ChatGPT Is Throwing 404](https://chatgpt.com/) |
+| Tech | Thu, 03 Sep 202 | [Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere) |
+| Tech | Thu, 03 Sep 202 | [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt) |
+| Dev | Thu, 03 Sep 202 | [Free open-source avatar resources for developers and designers👋](https://dev.to/simran_singh_836b353245fb/free-open-source-avatar-resources-for-developers-and-designers-3ck5) |
+| Dev | Thu, 03 Sep 202 | [How pdlc-skills Keeps Quality Up When AI Writes the Code](https://dev.to/kanfu-panda/how-pdlc-skills-keeps-quality-up-when-ai-writes-the-code-42fk) |
+| Dev | Thu, 03 Sep 202 | [AI Systems Need Runtime Budgets](https://dev.to/lukaswalter/ai-systems-need-runtime-budgets-43fc) |
+| Dev | Thu, 03 Sep 202 | [Our signature verifier passed CI by never running](https://dev.to/rehman_ahmadchaudhry_007/our-signature-verifier-passed-ci-by-never-running-ipm) |
+| Dev | Thu, 03 Sep 202 | [Commit Your Code tip](https://dev.to/jarvisscript/commit-your-code-tip-b5k) |
+
 <!-- NEWS:END -->
 
 ---
