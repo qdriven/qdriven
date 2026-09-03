@@ -134,16 +134,16 @@ Self-taught developer who walked the full path: **manual testing → QA automati
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Tech | Thu, 03 Sep 202 | [Codex Is Down](https://github.com/openai/codex/issues/28756) |
-| Tech | Thu, 03 Sep 202 | [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) |
-| Tech | Thu, 03 Sep 202 | [ChatGPT Is Throwing 404](https://chatgpt.com/) |
-| Tech | Thu, 03 Sep 202 | [Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere) |
-| Tech | Thu, 03 Sep 202 | [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt) |
-| Dev | Thu, 03 Sep 202 | [Free open-source avatar resources for developers and designers👋](https://dev.to/simran_singh_836b353245fb/free-open-source-avatar-resources-for-developers-and-designers-3ck5) |
-| Dev | Thu, 03 Sep 202 | [How pdlc-skills Keeps Quality Up When AI Writes the Code](https://dev.to/kanfu-panda/how-pdlc-skills-keeps-quality-up-when-ai-writes-the-code-42fk) |
-| Dev | Thu, 03 Sep 202 | [AI Systems Need Runtime Budgets](https://dev.to/lukaswalter/ai-systems-need-runtime-budgets-43fc) |
-| Dev | Thu, 03 Sep 202 | [Our signature verifier passed CI by never running](https://dev.to/rehman_ahmadchaudhry_007/our-signature-verifier-passed-ci-by-never-running-ipm) |
-| Dev | Thu, 03 Sep 202 | [Commit Your Code tip](https://dev.to/jarvisscript/commit-your-code-tip-b5k) |
+| Tech | Thu, 03 Sep 202 | [Three-LLM: Three.js-based WebGPU LLM inference engine](https://three-llm.ben3d.ca) |
+| Tech | Thu, 03 Sep 202 | [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra) |
+| Tech | Thu, 03 Sep 202 | [The death of San Francisco's Market Street](https://www.noahpinion.blog/p/the-death-of-market-street) |
+| Tech | Thu, 03 Sep 202 | [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) |
+| Tech | Thu, 03 Sep 202 | [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) |
+| Dev | Thu, 03 Sep 202 | [Is This Really Required? Meet gh stack](https://dev.to/anchildress1/is-this-really-required-meet-gh-stack-5g1f) |
+| Dev | Thu, 03 Sep 202 | [I built a small C++ game engine so an AI IDE could touch the whole thing](https://dev.to/ishan_shrestha/i-built-a-small-c-game-engine-so-an-ai-ide-could-touch-the-whole-thing-3fki) |
+| Dev | Thu, 03 Sep 202 | [Context Plugins: Typed SDK References for Agent API Integration](https://dev.to/mech_app_ai/context-plugins-typed-sdk-references-for-agent-api-integration-2f6a) |
+| Dev | Thu, 03 Sep 202 | [Getting Agents to Stop Assuming: What a First AWS Agent Workflow Reveals About Constraint Design](https://dev.to/mech_app_ai/getting-agents-to-stop-assuming-what-a-first-aws-agent-workflow-reveals-about-constraint-design-4o2l) |
+| Dev | Thu, 03 Sep 202 | [TypeScript Access Modifiers in 2026: Why `private` Fields Beat `#` and When the Opposite Is True](https://dev.to/jsmanifest/typescript-access-modifiers-in-2026-why-private-fields-beat-and-when-the-opposite-is-true-1kai) |
 
 <!-- NEWS:END -->
 
