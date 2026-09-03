@@ -152,7 +152,8 @@ Self-taught developer who walked the full path: **manual testing → QA automati
 ## Latest Posts
 
 <!-- BLOG:START -->
-*Blog posts will appear here after configuring your RSS feed in `.github/scripts/update_blog.py`*
+*No posts available yet. Check back soon!*
+
 <!-- BLOG:END -->
 
 ---
