@@ -111,21 +111,10 @@ See docs/live-feeds.md. Uncomment this heading when you want the section visible
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdriven&theme=github_dark" alt="GitHub profile summary card" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qdriven&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
-  </p>
 </details>
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="https://github.com/qdriven">GitHub</a> ·
-  <a href="https://linkedin.com/in/qdriven">LinkedIn</a>
-</p>
-
-<p align="center"><em>Every project is a lesson documented. The best entry points are the project READMEs and code linked above.</em></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97757,50:7f1d1d,100:111827&height=120&section=footer" alt="Footer banner" width="100%" />
