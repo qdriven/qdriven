@@ -134,16 +134,16 @@ Self-taught developer who walked the full path: **manual testing → QA automati
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Tech | Thu, 03 Sep 202 | [Three-LLM: Three.js-based WebGPU LLM inference engine](https://three-llm.ben3d.ca) |
+| Tech | Thu, 03 Sep 202 | [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796) |
+| Tech | Thu, 03 Sep 202 | [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) |
+| Tech | Thu, 03 Sep 202 | [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) |
 | Tech | Thu, 03 Sep 202 | [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra) |
-| Tech | Thu, 03 Sep 202 | [The death of San Francisco's Market Street](https://www.noahpinion.blog/p/the-death-of-market-street) |
-| Tech | Thu, 03 Sep 202 | [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) |
-| Tech | Thu, 03 Sep 202 | [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) |
-| Dev | Thu, 03 Sep 202 | [Is This Really Required? Meet gh stack](https://dev.to/anchildress1/is-this-really-required-meet-gh-stack-5g1f) |
-| Dev | Thu, 03 Sep 202 | [I built a small C++ game engine so an AI IDE could touch the whole thing](https://dev.to/ishan_shrestha/i-built-a-small-c-game-engine-so-an-ai-ide-could-touch-the-whole-thing-3fki) |
-| Dev | Thu, 03 Sep 202 | [Context Plugins: Typed SDK References for Agent API Integration](https://dev.to/mech_app_ai/context-plugins-typed-sdk-references-for-agent-api-integration-2f6a) |
-| Dev | Thu, 03 Sep 202 | [Getting Agents to Stop Assuming: What a First AWS Agent Workflow Reveals About Constraint Design](https://dev.to/mech_app_ai/getting-agents-to-stop-assuming-what-a-first-aws-agent-workflow-reveals-about-constraint-design-4o2l) |
-| Dev | Thu, 03 Sep 202 | [TypeScript Access Modifiers in 2026: Why `private` Fields Beat `#` and When the Opposite Is True](https://dev.to/jsmanifest/typescript-access-modifiers-in-2026-why-private-fields-beat-and-when-the-opposite-is-true-1kai) |
+| Tech | Thu, 03 Sep 202 | [Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?](https://news.ycombinator.com/item?id=49555592) |
+| Dev | Fri, 04 Sep 202 | [Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submiss...](https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en) |
+| Dev | Fri, 04 Sep 202 | [Trying VLA (Part 5): Setting Up and Testing a SpaceMouse](https://dev.to/takeofuture/trying-vla-part-5-setting-up-and-testing-a-spacemouse-eio) |
+| Dev | Fri, 04 Sep 202 | [Please Define Your Jargon](https://dev.to/extralongdivision/please-define-your-jargon-48bp) |
+| Dev | Fri, 04 Sep 202 | [Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)](https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o) |
+| Dev | Fri, 04 Sep 202 | [The Probe Returned 200. The Worker Had Never Bound a Port.](https://dev.to/codepy_1473/the-probe-returned-200-the-worker-had-never-bound-a-port-231e) |
 
 <!-- NEWS:END -->
 
