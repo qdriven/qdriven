@@ -25,25 +25,21 @@ Self-taught developer. Interested in AI development and productivity tools. Curi
 
 <!-- Replace the projects below with your own -->
 
-### AI-Enhanced Development
-| Project | What it does |
-|---|---|
-| *Your AI project here* | *Description* |
+<!-- innate_apps starts -->
+Innate apps are built on a set of [base frameworks](#base-frameworks) and shipped as independent [applications](#apps-maintained).
+Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/innate-apps) (`registry/apps.json`).
 
-### QA & Productivity Tools
-| Project | What it does |
-|---|---|
-| *Your QA tool here* | *Description* |
+### Apps (maintained)
+| Project | What it does | Status |
+|---|---|---|
+| [innate-fe-examples](https://github.com/qdriven/innate-fe-examples) | Frontend examples for quick development | maintained |
+| [innate-vytdl](https://github.com/qdriven/innate-vytdl) | vYtDL CLI — Go/TUI wrapper around yt-dlp with embed and auto-download | maintained |
 
-### Small Business Solutions
-| Project | What it does |
-|---|---|
-| *Your biz tool here* | *Description* |
-
-### Personal Infrastructure
-| Project | What it does |
-|---|---|
-| *Your infra project here* | *Description* |
+### Base Frameworks
+| Project | What it does | Status |
+|---|---|---|
+| [innate-desktop](https://github.com/qdriven/innate-susu) | Base desktop app project for innate apps | maintained |
+<!-- innate_apps ends -->
 
 <p align="center">
   <!-- Pin your best repos here -->
