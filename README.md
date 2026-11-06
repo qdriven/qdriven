@@ -39,7 +39,6 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | maintained |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | maintained |
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | maintained |
-| [innate-wip](https://github.com/variableway/innate-wip) | personal github repo dashboard for building in public, always in working in process | maintained |
 | [tutorials-maker](https://github.com/qdriven/tutorials-maker) | 教程生成工作台，含 agent-learning-workbench 教程学习环境 | maintained |
 | [cn-textbook-downloader](https://github.com/qdriven/cn-textbook-downloader) | ChinaTextbook 教材批量下载 CLI/TUI（uv + typer + textual）：断点续传、SHA 校验、PDF 分块合并 | maintained |
 | [susu-edu-workspace](https://github.com/qdriven/susu-edu-workspace) | Susu Edu：单学生、本地优先的初中数学补学应用（知识图谱 + 补学闭环） | maintained |
