@@ -32,13 +32,23 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### Apps (maintained)
 | Project | What it does | Status |
 |---|---|---|
+| [innate-daily](https://github.com/variableway/innate-daily) | personal github repo dashboard for building in public, always in working in process | maintained |
 | [innate-fe-examples](https://github.com/qdriven/innate-fe-examples) | Frontend examples for quick development | maintained |
 | [innate-vytdl](https://github.com/qdriven/innate-vytdl) | vYtDL CLI — Go/TUI wrapper around yt-dlp with embed and auto-download | maintained |
+| [innate-feeds](https://github.com/variableway/innate-feeds) | Github Trending and Starred Repo | maintained |
+| [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | maintained |
+
+### Apps (experimental)
+| Project | What it does | Status |
+|---|---|---|
+| [dsh-innate-agent](https://github.com/qdriven/dsh-innate-agent) | Local experiment fork of deepseek-ai/dsh-superagent-prototype: GitHub-optional deployment, localboard Source (hookq), tmux-free service, event trace, and a one-page demo UI — the full agent loop without GitHub | experimental |
 
 ### Base Frameworks
 | Project | What it does | Status |
 |---|---|---|
-| [innate-desktop](https://github.com/qdriven/innate-susu) | Base desktop app project for innate apps | maintained |
+| [innate-fe](https://github.com/variableway/innate-fe) | base frontend framework for innate apps | maintained |
+| [innate-backend](https://github.com/variableway/innate-backend) | base backend framework for innate apps | maintained |
+| [innate-desktop](https://github.com/qdriven/innate-susu) | base desktop app project for innate apps | maintained |
 <!-- innate_apps ends -->
 
 <p align="center">
