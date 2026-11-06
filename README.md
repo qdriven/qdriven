@@ -25,10 +25,10 @@ Self-taught developer. Interested in AI development and productivity tools. Curi
 
 <!-- Replace the projects below with your own -->
 
-<!-- innate_apps starts -->
 Innate apps are built on a set of [base frameworks](#base-frameworks) and shipped as independent [applications](#apps-maintained).
 Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/innate-apps) (`registry/apps.json`).
 
+<!-- innate_apps starts -->
 ### Apps (maintained)
 | Project | What it does | Status |
 |---|---|---|
@@ -41,7 +41,6 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 | [innate-executable](https://github.com/variableway/innate-executable) | executable tutorials website and desktop version | maintained |
 | [tutorials-maker](https://github.com/qdriven/tutorials-maker) | 教程生成工作台，含 agent-learning-workbench 教程学习环境 | maintained |
 | [cn-textbook-downloader](https://github.com/qdriven/cn-textbook-downloader) | ChinaTextbook 教材批量下载 CLI/TUI（uv + typer + textual）：断点续传、SHA 校验、PDF 分块合并 | maintained |
-| [susu-edu-workspace](https://github.com/qdriven/susu-edu-workspace) | Susu Edu：单学生、本地优先的初中数学补学应用（知识图谱 + 补学闭环） | maintained |
 | [MangoDisk](https://github.com/harry0703/MangoDisk) | Safety-first disk cleaner and space analyzer for macOS, Windows and Linux | maintained |
 | [fire-skills](https://github.com/variableway/fire-skills) | Personal AI Agent Skills Collection | maintained |
 | [skill-management](https://github.com/qdriven/skill-management) | Skill 管理与分发工具 | maintained |
@@ -54,8 +53,6 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### Base Frameworks
 | Project | What it does | Status |
 |---|---|---|
-| [innate-fe](https://github.com/variableway/innate-fe) | base frontend framework for innate apps | maintained |
-| [innate-backend](https://github.com/variableway/innate-backend) | base backend framework for innate apps | maintained |
 | [innate-desktop](https://github.com/qdriven/innate-desktop) | base desktop app project for innate apps | maintained |
 
 ### Reference Projects

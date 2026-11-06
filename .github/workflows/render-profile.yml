@@ -1,0 +1,54 @@
+name: Render Profile
+
+# 由 registry/apps.json 重新生成 README 里的 innate_apps 段落。
+# 渲染逻辑放在数据源仓库 qdriven/innate-apps 那边，这里只负责跑它并提交结果。
+on:
+  workflow_dispatch:
+  schedule:
+    # 每天 03:17 UTC（避开 update-readme.yaml 的 00:00，两个 workflow 都会推 README.md）
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-render
+  cancel-in-progress: false
+
+jobs:
+  render:
+    name: 由 registry 重新渲染 innate_apps 段落
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: profile
+
+      - uses: actions/checkout@v4
+        with:
+          repository: qdriven/innate-apps
+          path: innate-apps-src
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 渲染 innate_apps 段落
+        run: |
+          node innate-apps-src/scripts/render-profile.mjs \
+            --registry innate-apps-src/registry/apps.json \
+            --out profile/README.md \
+            --profile user
+
+      - name: 有变化才提交
+        working-directory: profile
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "docs: refresh innate apps project list from registry/apps.json"
+          git push
