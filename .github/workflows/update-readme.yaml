@@ -5,6 +5,12 @@ on:
     - cron: '0 */24 * * *'
   workflow_dispatch:
 
+# 与 render-profile.yml 共用同一个并发组——两个 workflow 都会推 README.md，
+# 不串行的话会互相顶掉对方的 push。
+concurrency:
+  group: profile-readme-render
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
