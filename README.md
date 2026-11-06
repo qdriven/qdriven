@@ -34,7 +34,7 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 |---|---|---|
 | [innate-daily](https://github.com/variableway/innate-daily) | personal github repo dashboard for building in public, always in working in process | maintained |
 | [innate-fe-examples](https://github.com/qdriven/innate-fe-examples) | Frontend examples for quick development | maintained |
-| [innate-vytdl](https://github.com/qdriven/innate-vytdl) | vYtDL CLI — Go/TUI wrapper around yt-dlp with embed and auto-download（远程仓库已存在，本地暂未检出） | maintained |
+| [innate-vytdl](https://github.com/qdriven/innate-vytdl) | vYtDL CLI — Go/TUI wrapper around yt-dlp with embed and auto-download | maintained |
 | [innate-feeds](https://github.com/variableway/innate-feeds) | Github Trending and Starred Repo | maintained |
 | [spark-cli](https://github.com/variableway/spark-cli) | Daily Cli command ideas fired by spark | maintained |
 | [innate-keepthem](https://github.com/variableway/innate-keepthem) | keep different resources and to know more | maintained |
