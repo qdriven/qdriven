@@ -66,11 +66,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/qdriven/innate-apps/pull/9#issuecomment-6688726080) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
-2. ❗ Opened issue [#11](https://github.com/qdriven/innate-apps/issues/11) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
-3. ❗ Opened issue [#8](https://github.com/qdriven/innate-apps/issues/8) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
-4. 🔒 Closed issue [#11](https://github.com/qdriven/innate-apps/issues/11) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
-5. 🔒 Closed issue [#10](https://github.com/qdriven/innate-apps/issues/10) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
+1. 🗣 Commented on [#8](https://github.com/variableway/innate-daily/issues/8#issuecomment-6701895477) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+2. 🔒 Closed issue [#8](https://github.com/variableway/innate-daily/issues/8) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+3. ❗ Opened issue [#8](https://github.com/variableway/innate-daily/issues/8) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+4. 🗣 Commented on [#9](https://github.com/qdriven/innate-apps/pull/9#issuecomment-6688726080) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
+5. ❗ Opened issue [#11](https://github.com/qdriven/innate-apps/issues/11) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
 <!--END_SECTION:activity-->
 
 ---
