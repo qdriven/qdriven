@@ -20,9 +20,12 @@ jobs:
     name: 由 registry 重新渲染 innate_apps 段落
     runs-on: ubuntu-latest
     steps:
+      # 本仓库是**个人 profile 仓库**——GitHub 上展示的 profile 就是仓库根目录的
+      # README.md（不是 profile/README.md，那是组织 profile 仓库的约定）。
+      # 检出到 profile-repo/ 下，只是为了和另一个检出目录区分开。
       - uses: actions/checkout@v4
         with:
-          path: profile
+          path: profile-repo
 
       - uses: actions/checkout@v4
         with:
@@ -37,11 +40,11 @@ jobs:
         run: |
           node innate-apps-src/scripts/render-profile.mjs \
             --registry innate-apps-src/registry/apps.json \
-            --out profile/README.md \
+            --out profile-repo/README.md \
             --profile user
 
       - name: 有变化才提交
-        working-directory: profile
+        working-directory: profile-repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

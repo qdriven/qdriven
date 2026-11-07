@@ -54,14 +54,6 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 | Project | What it does | Status |
 |---|---|---|
 | [innate-desktop](https://github.com/qdriven/innate-desktop) | base desktop app project for innate apps | maintained |
-
-### Reference Projects
-| Project | What it does | Status |
-|---|---|---|
-| [AIHOT](https://github.com/KKKKhazix/AIHOT) | 一个自己找热点、自己写日报的网站框架。 | maintained |
-| [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 数字生命卡兹克开源的 AI Skills 合集 | maintained |
-| [ai-aug-edu](https://github.com/HytidelLegend/ai-aug-edu) | AI 增强教育项目参考实现 | maintained |
-| [word-atlas](https://github.com/designfuchen/word-atlas) | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. | maintained |
 <!-- innate_apps ends -->
 
 <p align="center">
@@ -70,6 +62,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
   <a href="https://github.com/qdriven/your-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qdriven&repo=your-repo&theme=react&hide_border=true" alt="Repo card" /></a>
   -->
 </p>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
