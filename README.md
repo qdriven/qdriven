@@ -66,11 +66,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/variableway/innate-daily/issues/8#issuecomment-6701895477) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-2. 🔒 Closed issue [#8](https://github.com/variableway/innate-daily/issues/8) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-3. ❗ Opened issue [#8](https://github.com/variableway/innate-daily/issues/8) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-4. 🗣 Commented on [#9](https://github.com/qdriven/innate-apps/pull/9#issuecomment-6688726080) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
-5. ❗ Opened issue [#11](https://github.com/qdriven/innate-apps/issues/11) in [qdriven/innate-apps](https://github.com/qdriven/innate-apps)
+1. ℹ️ Labeled issue [#62](https://github.com/variableway/innate-feeds/issues/62) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+2. 🔒 Closed issue [#62](https://github.com/variableway/innate-feeds/issues/62) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+3. ❗ Opened issue [#62](https://github.com/variableway/innate-feeds/issues/62) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+4. 🗣 Commented on [#61](https://github.com/variableway/innate-feeds/issues/61#issuecomment-6708934949) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+5. 🔒 Closed issue [#61](https://github.com/variableway/innate-feeds/issues/61) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
 <!--END_SECTION:activity-->
 
 ---
