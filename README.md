@@ -1,7 +1,6 @@
 <!-- Badges + counters -->
 <p align="center">
   <a href="https://github.com/qdriven"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-qdriven-111827?logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/qdriven"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-qdriven-0a66c2?logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
