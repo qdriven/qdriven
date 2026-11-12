@@ -65,11 +65,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/variableway/innate-feeds/pull/71) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
-2. ❗ Opened issue [#3](https://github.com/qdriven/skill-management/issues/3) in [qdriven/skill-management](https://github.com/qdriven/skill-management)
-3. ❗ Opened issue [#70](https://github.com/variableway/innate-feeds/issues/70) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
-4. 🎉 Merged PR [#69](https://github.com/variableway/innate-feeds/pull/69) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
-5. ℹ️ Reopened PR [#69](https://github.com/variableway/innate-feeds/pull/69) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+1. 🗣 Commented on [#14](https://github.com/variableway/innate-daily/issues/14#issuecomment-6798441648) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+2. 🔒 Closed issue [#14](https://github.com/variableway/innate-daily/issues/14) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+3. 🎉 Merged PR [#71](https://github.com/variableway/innate-feeds/pull/71) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+4. 🔒 Closed issue [#70](https://github.com/variableway/innate-feeds/issues/70) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+5. 🗣 Commented on [#3](https://github.com/qdriven/skill-management/issues/3#issuecomment-6788675499) in [qdriven/skill-management](https://github.com/qdriven/skill-management)
 <!--END_SECTION:activity-->
 
 ---
