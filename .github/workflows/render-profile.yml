@@ -38,7 +38,7 @@ jobs:
 
       - name: 渲染 innate_apps 段落
         run: |
-          node innate-apps-src/scripts/render-profile.mjs \
+          node innate-apps-src/scripts/registry/render-profile.mjs \
             --registry innate-apps-src/registry/apps.json \
             --out profile-repo/README.md \
             --profile user
