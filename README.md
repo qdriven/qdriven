@@ -65,11 +65,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/variableway/spark-cli/pull/27) in [variableway/spark-cli](https://github.com/variableway/spark-cli)
-2. 🎉 Merged PR [#32](https://github.com/variableway/spark-cli/pull/32) in [variableway/spark-cli](https://github.com/variableway/spark-cli)
-3. 🎉 Merged PR [#4](https://github.com/qdriven/skill-management/pull/4) in [qdriven/skill-management](https://github.com/qdriven/skill-management)
-4. 💪 Opened PR [#4](https://github.com/qdriven/skill-management/pull/4) in [qdriven/skill-management](https://github.com/qdriven/skill-management)
-5. 💪 Opened PR [#32](https://github.com/variableway/spark-cli/pull/32) in [variableway/spark-cli](https://github.com/variableway/spark-cli)
+1. 🔒 Closed issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+2. ❗ Opened issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+3. 🔒 Closed issue [#15](https://github.com/variableway/innate-daily/issues/15) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+4. ❗ Opened issue [#15](https://github.com/variableway/innate-daily/issues/15) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+5. 🎉 Merged PR [#72](https://github.com/variableway/innate-feeds/pull/72) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
 <!--END_SECTION:activity-->
 
 ---
