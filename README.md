@@ -65,11 +65,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-2. ❗ Opened issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-3. 🔒 Closed issue [#15](https://github.com/variableway/innate-daily/issues/15) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-4. ❗ Opened issue [#15](https://github.com/variableway/innate-daily/issues/15) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-5. 🎉 Merged PR [#72](https://github.com/variableway/innate-feeds/pull/72) in [variableway/innate-feeds](https://github.com/variableway/innate-feeds)
+1. 🔒 Closed issue [#12](https://github.com/qdriven/build-innate-own-x/issues/12) in [qdriven/build-innate-own-x](https://github.com/qdriven/build-innate-own-x)
+2. ❗ Opened issue [#12](https://github.com/qdriven/build-innate-own-x/issues/12) in [qdriven/build-innate-own-x](https://github.com/qdriven/build-innate-own-x)
+3. 🔒 Closed issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+4. ❗ Opened issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+5. 🔒 Closed issue [#15](https://github.com/variableway/innate-daily/issues/15) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
 <!--END_SECTION:activity-->
 
 ---
