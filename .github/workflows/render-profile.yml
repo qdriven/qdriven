@@ -23,16 +23,16 @@ jobs:
       # 本仓库是**个人 profile 仓库**——GitHub 上展示的 profile 就是仓库根目录的
       # README.md（不是 profile/README.md，那是组织 profile 仓库的约定）。
       # 检出到 profile-repo/ 下，只是为了和另一个检出目录区分开。
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           path: profile-repo
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           repository: qdriven/innate-apps
           path: innate-apps-src
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: "22"
 
