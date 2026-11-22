@@ -65,11 +65,11 @@ Project registry maintained in [qdriven/innate-apps](https://github.com/qdriven/
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/qdriven/build-innate-own-x/issues/12) in [qdriven/build-innate-own-x](https://github.com/qdriven/build-innate-own-x)
-2. ❗ Opened issue [#12](https://github.com/qdriven/build-innate-own-x/issues/12) in [qdriven/build-innate-own-x](https://github.com/qdriven/build-innate-own-x)
-3. 🔒 Closed issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-4. ❗ Opened issue [#16](https://github.com/variableway/innate-daily/issues/16) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
-5. 🔒 Closed issue [#15](https://github.com/variableway/innate-daily/issues/15) in [variableway/innate-daily](https://github.com/variableway/innate-daily)
+1. 🎉 Merged PR [#6](https://github.com/qdriven/innate-vytdl/pull/6) in [qdriven/innate-vytdl](https://github.com/qdriven/innate-vytdl)
+2. 💪 Opened PR [#6](https://github.com/qdriven/innate-vytdl/pull/6) in [qdriven/innate-vytdl](https://github.com/qdriven/innate-vytdl)
+3. 🔒 Closed issue [#4](https://github.com/qdriven/innate-vytdl/issues/4) in [qdriven/innate-vytdl](https://github.com/qdriven/innate-vytdl)
+4. 🎉 Merged PR [#5](https://github.com/qdriven/innate-vytdl/pull/5) in [qdriven/innate-vytdl](https://github.com/qdriven/innate-vytdl)
+5. 💪 Opened PR [#5](https://github.com/qdriven/innate-vytdl/pull/5) in [qdriven/innate-vytdl](https://github.com/qdriven/innate-vytdl)
 <!--END_SECTION:activity-->
 
 ---
